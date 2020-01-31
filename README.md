@@ -11,6 +11,7 @@ I will also need to update the xQuery to extract the full XML, not simply the fo
 I use `register-analysis.py` to analyze the register of XML texts in terms of their relative linguistic probabilities.
 
 TODO: add R scripts for correlation analysis, and instructions for contextual analysis.
+TODO: update python paths to be relative, and duplicate all dependencies, such as TF-IDF model
 
 ## Acknowledgements
 
