@@ -1,0 +1,1767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <episode startId="SBLGNT.Matt.1.1.w1" episodeId="01§01" startWord="Βίβλος"
+        endId="SBLGNT.Matt.1.17.w29" endWord="δεκατέσσαρες" episodeWordLength="275"
+        episodeTitle="The Genealogy of Christ"/>
+    <episode startId="SBLGNT.Matt.1.18.w1" episodeId="01§02" startWord="Τοῦ"
+        endId="SBLGNT.Matt.1.25.w14" endWord="Ἰησοῦν" episodeWordLength="161"
+        episodeTitle="The Annunciation to Joseph and the Birth of Jesus"/>
+    <episode startId="SBLGNT.Matt.2.1.w1" episodeId="01§03" startWord="Τοῦ"
+        endId="SBLGNT.Matt.2.12.w16" endWord="αὐτῶν" episodeWordLength="220"
+        episodeTitle="The Wise Men from the East"/>
+    <episode startId="SBLGNT.Matt.2.13.w1" episodeId="01§04" startWord="Ἀναχωρησάντων"
+        endId="SBLGNT.Matt.2.23.w17" endWord="κληθήσεται" episodeWordLength="237"
+        episodeTitle="The Flight into Egypt and the Return to Nazareth"/>
+    <episode startId="SBLGNT.Matt.3.1.w1" episodeId="01§05" startWord="Ἐν"
+        endId="SBLGNT.Matt.3.12.w26" endWord="ἀσβέστῳ" episodeWordLength="236"
+        episodeTitle="The Ministry of John the Baptist"/>
+    <episode startId="SBLGNT.Matt.3.13.w1" episodeId="01§06" startWord="Τότε"
+        endId="SBLGNT.Matt.3.17.w17" endWord="εὐδόκησα" episodeWordLength=" 95"
+        episodeTitle="The Baptism of Jesus"/>
+    <episode startId="SBLGNT.Matt.4.1.w1" episodeId="01§07" startWord="Τότε"
+        endId="SBLGNT.Matt.4.11.w12" endWord="αὐτῷ" episodeWordLength="184"
+        episodeTitle="The Temptation in the Wilderness"/>
+    <episode startId="SBLGNT.Matt.4.12.w1" episodeId="01§08" startWord="Ἀκούσας"
+        endId="SBLGNT.Matt.4.25.w18" endWord="Ἰορδάνου" episodeWordLength="244"
+        episodeTitle="The Beginning of the Galilean Ministry and the Call of the Four"/>
+    <episode startId="SBLGNT.Matt.5.1.w1" episodeId="01§09" startWord="Ἰδὼν"
+        endId="SBLGNT.Matt.5.12.w19" endWord="ὑμῶν" episodeWordLength="131"
+        episodeTitle="The Beatitudes"/>
+    <episode startId="SBLGNT.Matt.5.13.w1" episodeId="01§10" startWord="Ὑμεῖς"
+        endId="SBLGNT.Matt.5.16.w23" endWord="οὐρανοῖς" episodeWordLength=" 82"
+        episodeTitle="The Chief Functions of the Disciples in the World"/>
+    <episode startId="SBLGNT.Matt.5.17.w1" episodeId="01§11" startWord="Μὴ"
+        endId="SBLGNT.Matt.5.37.w17" endWord="ἐστιν" episodeWordLength="445"
+        episodeTitle="Christ Confirms and Expounds the Law of Moses"/>
+    <episode startId="SBLGNT.Matt.5.38.w1" episodeId="01§12" startWord="Ἠκούσατε"
+        endId="SBLGNT.Matt.5.48.w12" endWord="ἐστιν" episodeWordLength="163"
+        episodeTitle="The Law of Love toward the Enemy"/>
+    <episode startId="SBLGNT.Matt.6.1.w1" episodeId="01§13" startWord="Προσέχετε"
+        endId="SBLGNT.Matt.6.18.w25" endWord="σοι" episodeWordLength="344"
+        episodeTitle="On Giving of Alms, Praying, and Fasting"/>
+    <episode startId="SBLGNT.Matt.6.19.w1" episodeId="01§14" startWord="Μὴ"
+        endId="SBLGNT.Matt.6.34.w17" endWord="αὐτῆς" episodeWordLength="304"
+        episodeTitle="Warning against Covetousness and Care"/>
+    <episode startId="SBLGNT.Matt.7.1.w1" episodeId="01§15" startWord="Μὴ"
+        endId="SBLGNT.Matt.7.12.w23" endWord="προφῆται" episodeWordLength="204"
+        episodeTitle="Warning against Unauthorized Judging and Admonition to Persevere in Prayer"/>
+    <episode startId="SBLGNT.Matt.7.13.w1" episodeId="01§16" startWord="Εἰσέλθατε"
+        endId="SBLGNT.Matt.7.29.w13" endWord="αὐτῶν" episodeWordLength="312"
+        episodeTitle="The Conclusion of the Sermon"/>
+    <episode startId="SBLGNT.Matt.8.1.w1" episodeId="01§17" startWord="Καταβάντος"
+        endId="SBLGNT.Matt.8.4.w24" endWord="αὐτοῖς" episodeWordLength=" 62"
+        episodeTitle="The Healing of the Leper"/>
+    <episode startId="SBLGNT.Matt.8.5.w1" episodeId="01§18" startWord="Εἰσελθόντος"
+        endId="SBLGNT.Matt.8.13.w19" endWord="ἐκείνῃ" episodeWordLength="166"
+        episodeTitle="The Centurion of Capernaum"/>
+    <episode startId="SBLGNT.Matt.8.14.w1" episodeId="01§19" startWord="Καὶ"
+        endId="SBLGNT.Matt.8.17.w18" endWord="ἐβάστασεν" episodeWordLength=" 66"
+        episodeTitle="Various Miracles of Healing"/>
+    <episode startId="SBLGNT.Matt.8.18.w1" episodeId="01§20" startWord="Ἰδὼν"
+        endId="SBLGNT.Matt.8.22.w15" endWord="νεκρούς" episodeWordLength=" 82"
+        episodeTitle="The Discipleship of Christ"/>
+    <episode startId="SBLGNT.Matt.8.23.w1" episodeId="01§21" startWord="Καὶ"
+        endId="SBLGNT.Matt.8.27.w17" endWord="ὑπακούουσιν" episodeWordLength=" 72"
+        episodeTitle="The Storm on the Lake"/>
+    <episode startId="SBLGNT.Matt.8.28.w1" episodeId="01§22" startWord="Καὶ"
+        endId="SBLGNT.Matt.8.34.w20" endWord="αὐτῶν" episodeWordLength="135"
+        episodeTitle="Jesus and the Gadarenes"/>
+    <episode startId="SBLGNT.Matt.9.1.w1" episodeId="01§23" startWord="Καὶ"
+        endId="SBLGNT.Matt.9.8.w15" endWord="ἀνθρώποις" episodeWordLength="126"
+        episodeTitle="The Healing of the Palsied Man"/>
+    <episode startId="SBLGNT.Matt.9.9.w1" episodeId="01§24" startWord="Καὶ"
+        endId="SBLGNT.Matt.9.17.w32" endWord="συντηροῦνται" episodeWordLength="198"
+        episodeTitle="The Call of Matthew and His Feast"/>
+    <episode startId="SBLGNT.Matt.9.18.w1" episodeId="01§25" startWord="Ταῦτα"
+        endId="SBLGNT.Matt.9.26.w10" endWord="ἐκείνην" episodeWordLength="138"
+        episodeTitle="The Daughter of Jairus"/>
+    <episode startId="SBLGNT.Matt.9.27.w1" episodeId="01§26" startWord="Καὶ"
+        endId="SBLGNT.Matt.9.34.w12" endWord="δαιμόνια" episodeWordLength="114"
+        episodeTitle="Further Miracles of That Day"/>
+    <episode startId="SBLGNT.Matt.9.35.w1" episodeId="01§27" startWord="Καὶ"
+        endId="SBLGNT.Matt.9.38.w13" endWord="αὐτοῦ" episodeWordLength=" 71"
+        episodeTitle="Continuation of Christ’s Teaching and Healing Ministry"/>
+    <episode startId="SBLGNT.Matt.10.1.w1" episodeId="01§28" startWord="Καὶ"
+        endId="SBLGNT.Matt.10.15.w16" endWord="ἐκείνῃ" episodeWordLength="245"
+        episodeTitle="The Commission to the Twelve"/>
+    <episode startId="SBLGNT.Matt.10.16.w1" episodeId="01§29" startWord="Ἰδοὺ"
+        endId="SBLGNT.Matt.10.25.w26" endWord="αὐτοῦ" episodeWordLength="188"
+        episodeTitle="The Perils of Apostleship"/>
+    <episode startId="SBLGNT.Matt.10.26.w1" episodeId="01§30" startWord="Μὴ"
+        endId="SBLGNT.Matt.10.36.w7" endWord="αὐτοῦ" episodeWordLength="177"
+        episodeTitle="Fearless Confession of Christ Demanded"/>
+    <episode startId="SBLGNT.Matt.10.37.w1" episodeId="01§31" startWord="ὁ"
+        endId="SBLGNT.Matt.10.42.w23" endWord="αὐτοῦ" episodeWordLength="110"
+        episodeTitle="Perfect Consecration to Christ"/>
+    <episode startId="SBLGNT.Matt.11.1.w1" episodeId="01§32" startWord="Καὶ"
+        endId="SBLGNT.Matt.11.6.w9" endWord="ἐμοί" episodeWordLength=" 84"
+        episodeTitle="John the Baptist’s Disciples Come to Jesus"/>
+    <episode startId="SBLGNT.Matt.11.7.w1" episodeId="01§33" startWord="Τούτων"
+        endId="SBLGNT.Matt.11.19.w27" endWord="αὐτῆς" episodeWordLength="202"
+        episodeTitle="Christ’s Testimony Concerning John"/>
+    <episode startId="SBLGNT.Matt.11.20.w1" episodeId="01§34" startWord="Τότε"
+        endId="SBLGNT.Matt.11.24.w13" endWord="σοί" episodeWordLength=" 93"
+        episodeTitle="The Woe upon the Galilean Cities"/>
+    <episode startId="SBLGNT.Matt.11.25.w1" episodeId="01§35" startWord="Ἐν"
+        endId="SBLGNT.Matt.11.30.w11" endWord="ἐστιν" episodeWordLength="114"
+        episodeTitle="The Gospel Call"/>
+    <episode startId="SBLGNT.Matt.12.1.w1" episodeId="01§36" startWord="Ἐν"
+        endId="SBLGNT.Matt.12.13.w16" endWord="ἄλλη" episodeWordLength="215"
+        episodeTitle="The Lord of the Sabbath"/>
+    <episode startId="SBLGNT.Matt.12.14.w1" episodeId="01§37" startWord="ἐξελθόντες"
+        endId="SBLGNT.Matt.12.30.w15" endWord="σκορπίζει" episodeWordLength="268"
+        episodeTitle="The Enmity of the Pharisees and Christ’s Answer"/>
+    <episode startId="SBLGNT.Matt.12.31.w1" episodeId="01§38" startWord="διὰ"
+        endId="SBLGNT.Matt.12.37.w12" endWord="καταδικασθήσῃ" episodeWordLength="144"
+        episodeTitle="The Sin against the Holy Spirit"/>
+    <episode startId="SBLGNT.Matt.12.38.w1" episodeId="01§39" startWord="Τότε"
+        endId="SBLGNT.Matt.12.45.w33" endWord="πονηρᾷ" episodeWordLength="188"
+        episodeTitle="The Sign from Heaven and a Warning"/>
+    <episode startId="SBLGNT.Matt.12.46.w1" episodeId="01§40" startWord="Ἔτι"
+        endId="SBLGNT.Matt.12.50.w20" endWord="ἐστίν" episodeWordLength=" 91"
+        episodeTitle="Christ’s Relatives"/>
+    <episode startId="SBLGNT.Matt.13.1.w1" episodeId="01§41" startWord="Ἐν"
+        endId="SBLGNT.Matt.13.23.w29" endWord="τριάκοντα" episodeWordLength="415"
+        episodeTitle="The Parable of the Sower"/>
+    <episode startId="SBLGNT.Matt.13.24.w1" episodeId="01§42" startWord="Ἄλλην"
+        endId="SBLGNT.Matt.13.52.w26" endWord="παλαιά" episodeWordLength="554"
+        episodeTitle="The Parable of the Tares, and Others"/>
+    <episode startId="SBLGNT.Matt.13.53.w1" episodeId="01§43" startWord="καὶ"
+        endId="SBLGNT.Matt.13.58.w10" endWord="αὐτῶν" episodeWordLength="107"
+        episodeTitle="A Visit to Nazareth"/>
+    <episode startId="SBLGNT.Matt.14.1.w1" episodeId="01§44" startWord="Ἐν"
+        endId="SBLGNT.Matt.14.12.w16" endWord="Ἰησοῦ" episodeWordLength="172"
+        episodeTitle="The Death of John the Baptist"/>
+    <episode startId="SBLGNT.Matt.14.13.w1" episodeId="01§45" startWord="Ἀκούσας"
+        endId="SBLGNT.Matt.14.21.w11" endWord="παιδίων" episodeWordLength="157"
+        episodeTitle="The Feeding of the Five Thousand"/>
+    <episode startId="SBLGNT.Matt.14.22.w1" episodeId="01§46" startWord="Καὶ"
+        endId="SBLGNT.Matt.14.36.w15" endWord="διεσώθησαν" episodeWordLength="230"
+        episodeTitle="Christ Walks on the Sea"/>
+    <episode startId="SBLGNT.Matt.15.1.w1" episodeId="01§47" startWord="Τότε"
+        endId="SBLGNT.Matt.15.20.w15" endWord="ἄνθρωπον" episodeWordLength="278"
+        episodeTitle="A Lesson Concerning Defilement"/>
+    <episode startId="SBLGNT.Matt.15.21.w1" episodeId="01§48" startWord="Καὶ"
+        endId="SBLGNT.Matt.15.28.w25" endWord="ἐκείνης" episodeWordLength="139"
+        episodeTitle="The Syrophoenician Woman"/>
+    <episode startId="SBLGNT.Matt.15.29.w1" episodeId="01§49" startWord="Καὶ"
+        endId="SBLGNT.Matt.15.39.w14" endWord="Μαγαδάν" episodeWordLength="192"
+        episodeTitle="Christ Teaches and Feeds Four Thousand"/>
+    <episode startId="SBLGNT.Matt.16.1.w1" episodeId="01§50" startWord="Καὶ"
+        endId="SBLGNT.Matt.16.4.w20" endWord="ἀπῆλθεν" episodeWordLength=" 71"
+        episodeTitle="The Demand for a Sign"/>
+    <episode startId="SBLGNT.Matt.16.5.w1" episodeId="01§51" startWord="Καὶ"
+        endId="SBLGNT.Matt.16.12.w19" endWord="Σαδδουκαίων" episodeWordLength="109"
+        episodeTitle="The Leaven of the Pharisees"/>
+    <episode startId="SBLGNT.Matt.16.13.w1" episodeId="01§52" startWord="Ἐλθὼν"
+        endId="SBLGNT.Matt.16.20.w12" endWord="χριστός" episodeWordLength="157"
+        episodeTitle="“Christ the Son of the Living God”"/>
+    <episode startId="SBLGNT.Matt.16.21.w1" episodeId="01§53" startWord="Ἀπὸ"
+        endId="SBLGNT.Matt.16.28.w26" endWord="αὐτοῦ" episodeWordLength="189"
+        episodeTitle="Christ’s First Prophecy Concerning His Passion"/>
+    <episode startId="SBLGNT.Matt.17.1.w1" episodeId="01§54" startWord="Καὶ"
+        endId="SBLGNT.Matt.17.13.w11" endWord="αὐτοῖς" episodeWordLength="232"
+        episodeTitle="The Transfiguration of Christ"/>
+    <episode startId="SBLGNT.Matt.17.14.w1" episodeId="01§55" startWord="Καὶ"
+        endId="SBLGNT.Matt.17.20.w31" endWord="ὑμῖν" episodeWordLength="133"
+        episodeTitle="The Healing of a Boy with a Demon"/>
+    <episode startId="SBLGNT.Matt.17.22.w1" episodeId="01§56" startWord="Συστρεφομένων"
+        endId="SBLGNT.Matt.17.27.w31" endWord="σοῦ" episodeWordLength="131"
+        episodeTitle="Christ Foretells His Passion and Pays the Temple-Tax"/>
+    <episode startId="SBLGNT.Matt.18.1.w1" episodeId="01§57" startWord="Ἐν"
+        endId="SBLGNT.Matt.18.14.w17" endWord="τούτων" episodeWordLength="290"
+        episodeTitle="The Greatest in the Kingdom of Heaven"/>
+    <episode startId="SBLGNT.Matt.18.15.w1" episodeId="01§58" startWord="Ἐὰν"
+        endId="SBLGNT.Matt.18.22.w13" endWord="ἑπτά" episodeWordLength="165"
+        episodeTitle="How to Deal with an Erring Brother"/>
+    <episode startId="SBLGNT.Matt.18.23.w1" episodeId="01§59" startWord="Διὰ"
+        endId="SBLGNT.Matt.18.35.w20" endWord="ὑμῶν" episodeWordLength="214"
+        episodeTitle="Parable of the Unmerciful Servant"/>
+    <episode startId="SBLGNT.Matt.19.1.w1" episodeId="01§60" startWord="Καὶ"
+        endId="SBLGNT.Matt.19.12.w32" endWord="χωρείτω" episodeWordLength="220"
+        episodeTitle="On Marriage and Divorce"/>
+    <episode startId="SBLGNT.Matt.19.13.w1" episodeId="01§61" startWord="Τότε"
+        endId="SBLGNT.Matt.19.15.w7" endWord="ἐκεῖθεν" episodeWordLength=" 45"
+        episodeTitle="Christ Blessing Little Children"/>
+    <episode startId="SBLGNT.Matt.19.16.w1" episodeId="01§62" startWord="Καὶ"
+        endId="SBLGNT.Matt.19.26.w16" endWord="δυνατά" episodeWordLength="179"
+        episodeTitle="The Dangers of Riches"/>
+    <episode startId="SBLGNT.Matt.19.27.w1" episodeId="01§63" startWord="Τότε"
+        endId="SBLGNT.Matt.19.30.w8" endWord="πρῶτοι" episodeWordLength=" 92"
+        episodeTitle="The Reward of the Apostles"/>
+    <episode startId="SBLGNT.Matt.20.1.w1" episodeId="01§64" startWord="Ὁμοία"
+        endId="SBLGNT.Matt.20.16.w9" endWord="ἔσχατοι" episodeWordLength="240"
+        episodeTitle="Parable of the Laborers in the Vineyard"/>
+    <episode startId="SBLGNT.Matt.20.17.w1" episodeId="01§65" startWord="Καὶ"
+        endId="SBLGNT.Matt.20.19.w17" endWord="ἐγερθήσεται" episodeWordLength=" 53"
+        episodeTitle="Christ Again Foretells His Passion"/>
+    <episode startId="SBLGNT.Matt.20.20.w1" episodeId="01§66" startWord="Τότε"
+        endId="SBLGNT.Matt.20.28.w18" endWord="πολλῶν" episodeWordLength="167"
+        episodeTitle="The Requests of the Sons of Zebedee"/>
+    <episode startId="SBLGNT.Matt.20.29.w1" episodeId="01§67" startWord="Καὶ"
+        endId="SBLGNT.Matt.20.34.w14" endWord="αὐτῷ" episodeWordLength=" 79"
+        episodeTitle="Healing of Two Blind Men"/>
+    <episode startId="SBLGNT.Matt.21.1.w1" episodeId="01§68" startWord="Καὶ"
+        endId="SBLGNT.Matt.21.11.w14" endWord="Γαλιλαίας" episodeWordLength="190"
+        episodeTitle="Christ’s Entry into Jerusalem"/>
+    <episode startId="SBLGNT.Matt.21.12.w1" episodeId="01§69" startWord="Καὶ"
+        endId="SBLGNT.Matt.21.16.w23" endWord="αἶνον" episodeWordLength="106"
+        episodeTitle="Christ Visits the Temple"/>
+    <episode startId="SBLGNT.Matt.21.17.w1" episodeId="01§70" startWord="καὶ"
+        endId="SBLGNT.Matt.21.22.w10" endWord="λήμψεσθε" episodeWordLength="109"
+        episodeTitle="The Cursing of the Fig-Tree"/>
+    <episode startId="SBLGNT.Matt.21.23.w1" episodeId="01§71" startWord="Καὶ"
+        endId="SBLGNT.Matt.21.27.w20" endWord="ποιῶ" episodeWordLength="116"
+        episodeTitle="The Authority of Christ"/>
+    <episode startId="SBLGNT.Matt.21.28.w1" episodeId="01§72" startWord="Τί"
+        endId="SBLGNT.Matt.21.32.w29" endWord="αὐτῷ" episodeWordLength="105"
+        episodeTitle="The Parable of the Two Sons"/>
+    <episode startId="SBLGNT.Matt.21.33.w1" episodeId="01§73" startWord="Ἄλλην"
+        endId="SBLGNT.Matt.21.46.w12" endWord="εἶχον" episodeWordLength="238"
+        episodeTitle="The Parable of the Wicked Husbandmen"/>
+    <episode startId="SBLGNT.Matt.22.1.w1" episodeId="01§74" startWord="Καὶ"
+        endId="SBLGNT.Matt.22.14.w7" endWord="ἐκλεκτοί" episodeWordLength="223"
+        episodeTitle="The Parable of the Marriage Feast"/>
+    <episode startId="SBLGNT.Matt.22.15.w1" episodeId="01§75" startWord="Τότε"
+        endId="SBLGNT.Matt.22.22.w7" endWord="ἀπῆλθαν" episodeWordLength="115"
+        episodeTitle="The Question Concerning Tribute"/>
+    <episode startId="SBLGNT.Matt.22.23.w1" episodeId="01§76" startWord="Ἐν"
+        endId="SBLGNT.Matt.22.33.w9" endWord="αὐτοῦ" episodeWordLength="164"
+        episodeTitle="The Question of the Sadducees"/>
+    <episode startId="SBLGNT.Matt.22.34.w1" episodeId="01§77" startWord="Οἱ"
+        endId="SBLGNT.Matt.22.46.w16" endWord="οὐκέτι" episodeWordLength="160"
+        episodeTitle="The Silencing of the Pharisees"/>
+    <episode startId="SBLGNT.Matt.23.1.w1" episodeId="01§78" startWord="Τότε"
+        endId="SBLGNT.Matt.23.12.w10" endWord="ὑψωθήσεται" episodeWordLength="166"
+        episodeTitle="The Inordinate Ambition of the Pharisees"/>
+    <episode startId="SBLGNT.Matt.23.13.w1" episodeId="01§79" startWord="Οὐαὶ"
+        endId="SBLGNT.Matt.23.33.w10" endWord="γεέννης" episodeWordLength="361"
+        episodeTitle="The Woes upon the Hypocrisy of the Pharisees"/>
+    <episode startId="SBLGNT.Matt.23.34.w1" episodeId="01§80" startWord="διὰ"
+        endId="SBLGNT.Matt.23.39.w18" endWord="κυρίου" episodeWordLength="128"
+        episodeTitle="The Peroration and the Lament over Jerusalem"/>
+    <episode startId="SBLGNT.Matt.24.1.w1" episodeId="01§81" startWord="Καὶ"
+        endId="SBLGNT.Matt.24.41.w10" endWord="ἀφίεται" episodeWordLength="663"
+        episodeTitle="The Judgment of God upon Jerusalem and upon the World"/>
+    <episode startId="SBLGNT.Matt.24.42.w1" episodeId="01§82" startWord="γρηγορεῖτε"
+        endId="SBLGNT.Matt.24.51.w20" endWord="ὀδόντων" episodeWordLength="161"
+        episodeTitle="The Need of Watchfulness"/>
+    <episode startId="SBLGNT.Matt.25.1.w1" episodeId="01§83" startWord="Τότε"
+        endId="SBLGNT.Matt.25.13.w10" endWord="ὥραν" episodeWordLength="171"
+        episodeTitle="The Parable of the Ten Virgins"/>
+    <episode startId="SBLGNT.Matt.25.14.w1" episodeId="01§84" startWord="Ὥσπερ"
+        endId="SBLGNT.Matt.25.30.w19" endWord="ὀδόντων" episodeWordLength="302"
+        episodeTitle="The Parable of the Talents"/>
+    <episode startId="SBLGNT.Matt.25.31.w1" episodeId="01§85" startWord="Ὅταν"
+        endId="SBLGNT.Matt.25.46.w12" endWord="αἰώνιον" episodeWordLength="280"
+        episodeTitle="The Last Judgment"/>
+    <episode startId="SBLGNT.Matt.26.1.w1" episodeId="01§86" startWord="Καὶ"
+        endId="SBLGNT.Matt.26.19.w13" endWord="πάσχα" episodeWordLength="275"
+        episodeTitle="Events Preceding the Last Passover"/>
+    <episode startId="SBLGNT.Matt.26.20.w1" episodeId="01§87" startWord="Ὀψίας"
+        endId="SBLGNT.Matt.26.29.w30" endWord="μου" episodeWordLength="174"
+        episodeTitle="The Passover Meal and the Institution of the Lord’s Supper"/>
+    <episode startId="SBLGNT.Matt.26.30.w1" episodeId="01§88" startWord="καὶ"
+        endId="SBLGNT.Matt.26.46.w7" endWord="με" episodeWordLength="290"
+        episodeTitle="Events at Gethsemane"/>
+    <episode startId="SBLGNT.Matt.26.47.w1" episodeId="01§89" startWord="Καὶ"
+        endId="SBLGNT.Matt.26.56.w17" endWord="ἔφυγον" episodeWordLength="189"
+        episodeTitle="The Betrayal and Arrest"/>
+    <episode startId="SBLGNT.Matt.26.57.w1" episodeId="01§90" startWord="Οἱ"
+        endId="SBLGNT.Matt.26.75.w20" endWord="πικρῶς" episodeWordLength="312"
+        episodeTitle="The Trial before Caiaphas and the Denial of Peter"/>
+    <episode startId="SBLGNT.Matt.27.1.w1" episodeId="01§91" startWord="Πρωΐας"
+        endId="SBLGNT.Matt.27.10.w12" endWord="κύριος" episodeWordLength="146"
+        episodeTitle="The End of Judas"/>
+    <episode startId="SBLGNT.Matt.27.11.w1" episodeId="01§92" startWord="Ὁ"
+        endId="SBLGNT.Matt.27.30.w13" endWord="αὐτοῦ" episodeWordLength="316"
+        episodeTitle="The Trial before Pilate"/>
+    <episode startId="SBLGNT.Matt.27.31.w1" episodeId="01§93" startWord="καὶ"
+        endId="SBLGNT.Matt.27.56.w20" endWord="Ζεβεδαίου" episodeWordLength="384"
+        episodeTitle="The Crucifixion and Death of Christ"/>
+    <episode startId="SBLGNT.Matt.27.57.w1" episodeId="01§94" startWord="Ὀψίας"
+        endId="SBLGNT.Matt.27.66.w12" endWord="κουστωδίας" episodeWordLength="160"
+        episodeTitle="The Burial of Christ"/>
+    <episode startId="SBLGNT.Matt.28.1.w1" episodeId="01§95" startWord="Ὀψὲ"
+        endId="SBLGNT.Matt.28.15.w19" endWord="ἡμέρας" episodeWordLength="248"
+        episodeTitle="The Resurrection of Christ"/>
+    <episode startId="SBLGNT.Matt.28.16.w1" episodeId="01§96" startWord="Οἱ"
+        endId="SBLGNT.Matt.28.20.w21" endWord="αἰῶνος" episodeWordLength=" 81"
+        episodeTitle="The Great Missionary Command"/>
+    <episode startId="SBLGNT.Mark.1.1.w1" episodeId="02§01" startWord="Ἀρχὴ"
+        endId="SBLGNT.Mark.1.8.w11" endWord="ἁγίῳ" episodeWordLength="127"
+        episodeTitle="The Ministry of John the Baptist"/>
+    <episode startId="SBLGNT.Mark.1.9.w1" episodeId="02§02" startWord="Καὶ"
+        endId="SBLGNT.Mark.1.20.w19" endWord="αὐτοῦ" episodeWordLength="200"
+        episodeTitle="The Baptism of Christ and the Beginning of His Ministry"/>
+    <episode startId="SBLGNT.Mark.1.21.w1" episodeId="02§03" startWord="Καὶ"
+        endId="SBLGNT.Mark.1.38.w17" endWord="ἐξῆλθον" episodeWordLength="261"
+        episodeTitle="Preaching and Healing in Capernaum"/>
+    <episode startId="SBLGNT.Mark.1.39.w1" episodeId="02§04" startWord="καὶ"
+        endId="SBLGNT.Mark.1.45.w29" endWord="πάντοθεν" episodeWordLength="113"
+        episodeTitle="The Healing of a Leper"/>
+    <episode startId="SBLGNT.Mark.2.1.w1" episodeId="02§05" startWord="Καὶ"
+        endId="SBLGNT.Mark.2.12.w22" endWord="εἴδομεν" episodeWordLength="196"
+        episodeTitle="Healing the Palsied Man"/>
+    <episode startId="SBLGNT.Mark.2.13.w1" episodeId="02§06" startWord="Καὶ"
+        endId="SBLGNT.Mark.2.22.w29" endWord="καινούς" episodeWordLength="238"
+        episodeTitle="The Calling of Levi and the Dinner at His House"/>
+    <episode startId="SBLGNT.Mark.2.23.w1" episodeId="02§07" startWord="Καὶ"
+        endId="SBLGNT.Mark.2.28.w10" endWord="σαββάτου" episodeWordLength="108"
+        episodeTitle="The Lord of the Sabbath"/>
+    <episode startId="SBLGNT.Mark.3.1.w1" episodeId="02§08" startWord="Καὶ"
+        endId="SBLGNT.Mark.3.6.w15" endWord="ἀπολέσωσιν" episodeWordLength=" 93"
+        episodeTitle="Healing the Withered Hand"/>
+    <episode startId="SBLGNT.Mark.3.7.w1" episodeId="02§09" startWord="Καὶ"
+        endId="SBLGNT.Mark.3.21.w12" endWord="ἐξέστη" episodeWordLength="221"
+        episodeTitle="Miracles by the Seaside"/>
+    <episode startId="SBLGNT.Mark.3.22.w1" episodeId="02§10" startWord="καὶ"
+        endId="SBLGNT.Mark.3.35.w16" endWord="ἐστίν" episodeWordLength="221"
+        episodeTitle="Discourse on the Casting Out of Demons"/>
+    <episode startId="SBLGNT.Mark.4.1.w1" episodeId="02§11" startWord="Καὶ"
+        endId="SBLGNT.Mark.4.34.w14" endWord="πάντα" episodeWordLength="565"
+        episodeTitle="Teaching by Means of Parables"/>
+    <episode startId="SBLGNT.Mark.4.35.w1" episodeId="02§12" startWord="Καὶ"
+        endId="SBLGNT.Mark.4.41.w21" endWord="αὐτῷ" episodeWordLength="118"
+        episodeTitle="Christ Stilling the Tempest"/>
+    <episode startId="SBLGNT.Mark.5.1.w1" episodeId="02§13" startWord="Καὶ"
+        endId="SBLGNT.Mark.5.20.w16" endWord="ἐθαύμαζον" episodeWordLength="325"
+        episodeTitle="The Healing of a Demon-Possessed Man"/>
+    <episode startId="SBLGNT.Mark.5.21.w1" episodeId="02§14" startWord="Καὶ"
+        endId="SBLGNT.Mark.5.43.w13" endWord="φαγεῖν" episodeWordLength="373"
+        episodeTitle="Raising of the Daughter of Jairus"/>
+    <episode startId="SBLGNT.Mark.6.1.w1" episodeId="02§15" startWord="Καὶ"
+        endId="SBLGNT.Mark.6.5.w15" endWord="ἐθεράπευσεν" episodeWordLength="120"
+        episodeTitle="Jesus at Nazareth"/>
+    <episode startId="SBLGNT.Mark.6.6.w1" episodeId="02§16" startWord="καὶ"
+        endId="SBLGNT.Mark.6.13.w11" endWord="ἐθεράπευον" episodeWordLength="112"
+        episodeTitle="The Mission of the Twelve"/>
+    <episode startId="SBLGNT.Mark.6.14.w1" episodeId="02§17" startWord="Καὶ"
+        endId="SBLGNT.Mark.6.32.w10" endWord="ἰδίαν" episodeWordLength="355"
+        episodeTitle="Death of John the Baptist"/>
+    <episode startId="SBLGNT.Mark.6.33.w1" episodeId="02§18" startWord="καὶ"
+        endId="SBLGNT.Mark.6.44.w8" endWord="ἄνδρες" episodeWordLength="185"
+        episodeTitle="The Feeding of the Five Thousand"/>
+    <episode startId="SBLGNT.Mark.6.45.w1" episodeId="02§19" startWord="Καὶ"
+        endId="SBLGNT.Mark.6.56.w35" endWord="ἐσῴζοντο" episodeWordLength="211"
+        episodeTitle="Christ Walking on the Sea and His Return to Galilee"/>
+    <episode startId="SBLGNT.Mark.7.1.w1" episodeId="02§20" startWord="Καὶ"
+        endId="SBLGNT.Mark.7.13.w15" endWord="ποιεῖτε" episodeWordLength="222"
+        episodeTitle="Concerning Ceremonial Washings"/>
+    <episode startId="SBLGNT.Mark.7.14.w1" episodeId="02§21" startWord="Καὶ"
+        endId="SBLGNT.Mark.7.23.w10" endWord="ἄνθρωπον" episodeWordLength="139"
+        episodeTitle="Christ’s Denunciation of the Pharisees"/>
+    <episode startId="SBLGNT.Mark.7.24.w1" episodeId="02§22" startWord="Ἐκεῖθεν"
+        endId="SBLGNT.Mark.7.30.w17" endWord="ἐξεληλυθός" episodeWordLength="129"
+        episodeTitle="The Syrophoenician Woman"/>
+    <episode startId="SBLGNT.Mark.7.31.w1" episodeId="02§23" startWord="Καὶ"
+        endId="SBLGNT.Mark.7.37.w15" endWord="λαλεῖν" episodeWordLength="113"
+        episodeTitle="Healing of the Deaf Man"/>
+    <episode startId="SBLGNT.Mark.8.1.w1" episodeId="02§24" startWord="Ἐν"
+        endId="SBLGNT.Mark.8.9.w7" endWord="αὐτούς" episodeWordLength="131"
+        episodeTitle="The Feeding of the Four Thousand"/>
+    <episode startId="SBLGNT.Mark.8.10.w1" episodeId="02§25" startWord="καὶ"
+        endId="SBLGNT.Mark.8.21.w5" endWord="συνίετε" episodeWordLength="169"
+        episodeTitle="The Leaven of the Pharisees"/>
+    <episode startId="SBLGNT.Mark.8.22.w1" episodeId="02§26" startWord="Καὶ"
+        endId="SBLGNT.Mark.8.26.w12" endWord="εἰσέλθῃς" episodeWordLength=" 80"
+        episodeTitle="The Blind Man of Bethsaida"/>
+    <episode startId="SBLGNT.Mark.8.27.w1" episodeId="02§27" startWord="Καὶ"
+        endId="SBLGNT.Mark.8.38.w37" endWord="ἁγίων" episodeWordLength="252"
+        episodeTitle="Jesus the Christ and His Service"/>
+    <episode startId="SBLGNT.Mark.9.1.w1" episodeId="02§28" startWord="καὶ"
+        endId="SBLGNT.Mark.9.13.w16" endWord="αὐτόν" episodeWordLength="235"
+        episodeTitle="The Transfiguration of Jesus"/>
+    <episode startId="SBLGNT.Mark.9.14.w1" episodeId="02§29" startWord="Καὶ"
+        endId="SBLGNT.Mark.9.29.w14" endWord="προσευχῇ" episodeWordLength="270"
+        episodeTitle="Casting Out an Unclean Spirit"/>
+    <episode startId="SBLGNT.Mark.9.30.w1" episodeId="02§30" startWord="Κἀκεῖθεν"
+        endId="SBLGNT.Mark.9.50.w21" endWord="ἀλλήλοις" episodeWordLength="354"
+        episodeTitle="The Last Discourses of Christ in Galilee"/>
+    <episode startId="SBLGNT.Mark.10.1.w1" episodeId="02§31" startWord="Καὶ"
+        endId="SBLGNT.Mark.10.12.w10" endWord="μοιχᾶται" episodeWordLength="151"
+        episodeTitle="A Question concerning Divorce"/>
+    <episode startId="SBLGNT.Mark.10.13.w1" episodeId="02§32" startWord="Καὶ"
+        endId="SBLGNT.Mark.10.16.w9" endWord="αὐτά" episodeWordLength=" 64"
+        episodeTitle="Jesus Blesses Little Children"/>
+    <episode startId="SBLGNT.Mark.10.17.w1" episodeId="02§33" startWord="Καὶ"
+        endId="SBLGNT.Mark.10.31.w9" endWord="πρῶτοι" episodeWordLength="281"
+        episodeTitle="The Rich Young Man"/>
+    <episode startId="SBLGNT.Mark.10.32.w1" episodeId="02§34" startWord="Ἦσαν"
+        endId="SBLGNT.Mark.10.45.w19" endWord="πολλῶν" episodeWordLength="262"
+        episodeTitle="Priority in Christ’s Kingdom"/>
+    <episode startId="SBLGNT.Mark.10.46.w1" episodeId="02§35" startWord="Καὶ"
+        endId="SBLGNT.Mark.10.52.w20" endWord="ὁδῷ" episodeWordLength="123"
+        episodeTitle="The Healing of Bartimaeus"/>
+    <episode startId="SBLGNT.Mark.11.1.w1" episodeId="02§36" startWord="Καὶ"
+        endId="SBLGNT.Mark.11.11.w21" endWord="δώδεκα" episodeWordLength="186"
+        episodeTitle="Christ’s Entry into Jerusalem"/>
+    <episode startId="SBLGNT.Mark.11.12.w1" episodeId="02§37" startWord="Καὶ"
+        endId="SBLGNT.Mark.11.25.w24" endWord="ὑμῶν" episodeWordLength="253"
+        episodeTitle="The Miracle of the Fig-Tree"/>
+    <episode startId="SBLGNT.Mark.11.27.w1" episodeId="02§38" startWord="Καὶ"
+        endId="SBLGNT.Mark.11.33.w21" endWord="ποιῶ" episodeWordLength="127"
+        episodeTitle="The Question concerning Christ’s Authority"/>
+    <episode startId="SBLGNT.Mark.12.1.w1" episodeId="02§39" startWord="Καὶ"
+        endId="SBLGNT.Mark.12.12.w20" endWord="ἀπῆλθον" episodeWordLength="181"
+        episodeTitle="The Parable of the Vineyard"/>
+    <episode startId="SBLGNT.Mark.12.13.w1" episodeId="02§40" startWord="Καὶ"
+        endId="SBLGNT.Mark.12.34.w24" endWord="ἐπερωτῆσαι" episodeWordLength="430"
+        episodeTitle="Various Questions Proposed to Jesus"/>
+    <episode startId="SBLGNT.Mark.12.35.w1" episodeId="02§41" startWord="Καὶ"
+        endId="SBLGNT.Mark.12.44.w21" endWord="αὐτῆς" episodeWordLength="182"
+        episodeTitle="David’s Son and Lord"/>
+    <episode startId="SBLGNT.Mark.13.1.w1" episodeId="02§42" startWord="Καὶ"
+        endId="SBLGNT.Mark.13.37.w7" endWord="γρηγορεῖτε" episodeWordLength="604"
+        episodeTitle="Christ Foretells the Destruction of Jerusalem and the End of the World"/>
+    <episode startId="SBLGNT.Mark.14.1.w1" episodeId="02§43" startWord="Ἦν"
+        endId="SBLGNT.Mark.14.9.w21" endWord="αὐτῆς" episodeWordLength="158"
+        episodeTitle="The Anointing of Jesus"/>
+    <episode startId="SBLGNT.Mark.14.10.w1" episodeId="02§44" startWord="Καὶ"
+        endId="SBLGNT.Mark.14.25.w26" endWord="θεοῦ" episodeWordLength="281"
+        episodeTitle="The Preparation for, and the Celebration of, the Passover"/>
+    <episode startId="SBLGNT.Mark.14.26.w1" episodeId="02§45" startWord="Καὶ"
+        endId="SBLGNT.Mark.14.42.w7" endWord="ἤγγικεν" episodeWordLength="266"
+        episodeTitle="The Passion in Gethsemane"/>
+    <episode startId="SBLGNT.Mark.14.43.w1" episodeId="02§46" startWord="Καὶ"
+        endId="SBLGNT.Mark.14.52.w7" endWord="ἔφυγεν" episodeWordLength="140"
+        episodeTitle="The Capture of Jesus"/>
+    <episode startId="SBLGNT.Mark.14.53.w1" episodeId="02§47" startWord="Καὶ"
+        endId="SBLGNT.Mark.14.65.w23" endWord="ἔλαβον" episodeWordLength="222"
+        episodeTitle="The Trial before the High Priest"/>
+    <episode startId="SBLGNT.Mark.14.66.w1" episodeId="02§48" startWord="Καὶ"
+        endId="SBLGNT.Mark.14.72.w28" endWord="ἔκλαιεν" episodeWordLength="133"
+        episodeTitle="The Denial of Peter"/>
+    <episode startId="SBLGNT.Mark.15.1.w1" episodeId="02§49" startWord="Καὶ"
+        endId="SBLGNT.Mark.15.14.w15" endWord="αὐτόν" episodeWordLength="176"
+        episodeTitle="The Trial before Pilate"/>
+    <episode startId="SBLGNT.Mark.15.15.w1" episodeId="02§50" startWord="ὁ"
+        endId="SBLGNT.Mark.15.37.w7" endWord="ἐξέπνευσεν" episodeWordLength="317"
+        episodeTitle="Condemnation, Crucifixion, and Death of Jesus"/>
+    <episode startId="SBLGNT.Mark.15.38.w1" episodeId="02§51" startWord="καὶ"
+        endId="SBLGNT.Mark.15.47.w12" endWord="τέθειται" episodeWordLength="176"
+        episodeTitle="The Burial of Jesus"/>
+    <episode startId="SBLGNT.Mark.16.1.w1" episodeId="02§52" startWord="Καὶ"
+        endId="SBLGNT.Mark.16.8.w52" endWord="ἀμήν" episodeWordLength="170"
+        episodeTitle="The Resurrection of Jesus"/>
+    <episode startId="SBLGNT.Mark.16.9.w1" episodeId="02§53" startWord="Ἀναστὰς"
+        endId="SBLGNT.Mark.16.20.w16" endWord="σημείων" episodeWordLength="167"
+        episodeTitle="The Appearances and the Ascension of Jesus"/>
+    <episode startId="SBLGNT.Luke.1.1.w1" episodeId="03§01" startWord="Ἐπειδήπερ"
+        endId="SBLGNT.Luke.1.4.w8" endWord="ἀσφάλειαν" episodeWordLength=" 42"
+        episodeTitle="The Preface to the Gospel"/>
+    <episode startId="SBLGNT.Luke.1.5.w1" episodeId="03§02" startWord="Ἐγένετο"
+        endId="SBLGNT.Luke.1.25.w14" endWord="ἀνθρώποις" episodeWordLength="377"
+        episodeTitle="The Announcement of John the Baptist’s Birth"/>
+    <episode startId="SBLGNT.Luke.1.26.w1" episodeId="03§03" startWord="Ἐν"
+        endId="SBLGNT.Luke.1.38.w19" endWord="ἄγγελος" episodeWordLength="209"
+        episodeTitle="The Annunciation to Mary"/>
+    <episode startId="SBLGNT.Luke.1.39.w1" episodeId="03§04" startWord="Ἀναστᾶσα"
+        endId="SBLGNT.Luke.1.56.w14" endWord="αὐτῆς" episodeWordLength="232"
+        episodeTitle="Mary’s Visit to Elizabeth"/>
+    <episode startId="SBLGNT.Luke.1.57.w1" episodeId="03§05" startWord="Τῇ"
+        endId="SBLGNT.Luke.1.80.w19" endWord="Ἰσραήλ" episodeWordLength="326"
+        episodeTitle="The Birth of John the Baptist"/>
+    <episode startId="SBLGNT.Luke.2.1.w1" episodeId="03§06" startWord="Ἐγένετο"
+        endId="SBLGNT.Luke.2.20.w19" endWord="αὐτούς" episodeWordLength="311"
+        episodeTitle="The Birth of Jesus and the Adoration of the Shepherds"/>
+    <episode startId="SBLGNT.Luke.2.21.w1" episodeId="03§07" startWord="Καὶ"
+        endId="SBLGNT.Luke.2.40.w14" endWord="αὐτό" episodeWordLength="342"
+        episodeTitle="The Circumcision and Presentation of Christ"/>
+    <episode startId="SBLGNT.Luke.2.41.w1" episodeId="03§08" startWord="Καὶ"
+        endId="SBLGNT.Luke.2.52.w12" endWord="ἀνθρώποις" episodeWordLength="196"
+        episodeTitle="The Christ-Child in the Temple"/>
+    <episode startId="SBLGNT.Luke.3.1.w1" episodeId="03§09" startWord="Ἐν"
+        endId="SBLGNT.Luke.3.20.w11" endWord="φυλακῇ" episodeWordLength="379"
+        episodeTitle="The Ministry of John the Baptist"/>
+    <episode startId="SBLGNT.Luke.3.21.w1" episodeId="03§10" startWord="Ἐγένετο"
+        endId="SBLGNT.Luke.3.38.w8" endWord="θεοῦ" episodeWordLength="208"
+        episodeTitle="The Baptism and Genealogy of Christ"/>
+    <episode startId="SBLGNT.Luke.4.1.w1" episodeId="03§11" startWord="Ἰησοῦς"
+        endId="SBLGNT.Luke.4.13.w11" endWord="καιροῦ" episodeWordLength="203"
+        episodeTitle="The Temptation of Christ"/>
+    <episode startId="SBLGNT.Luke.4.14.w1" episodeId="03§12" startWord="Καὶ"
+        endId="SBLGNT.Luke.4.32.w13" endWord="αὐτοῦ" episodeWordLength="329"
+        episodeTitle="The Beginning of Christ’s Ministry and His Teaching in Nazareth"/>
+    <episode startId="SBLGNT.Luke.4.33.w1" episodeId="03§13" startWord="καὶ"
+        endId="SBLGNT.Luke.4.44.w8" endWord="Ἰουδαίας" episodeWordLength="236"
+        episodeTitle="Healing of a Demoniac and Other Miracles"/>
+    <episode startId="SBLGNT.Luke.5.1.w1" episodeId="03§14" startWord="Ἐγένετο"
+        endId="SBLGNT.Luke.5.11.w11" endWord="αὐτῷ" episodeWordLength="207"
+        episodeTitle="The Miraculous Draught of Fishes and the Call of the First Disciples"/>
+    <episode startId="SBLGNT.Luke.5.12.w1" episodeId="03§15" startWord="Καὶ"
+        endId="SBLGNT.Luke.5.26.w16" endWord="σήμερον" episodeWordLength="310"
+        episodeTitle="The Healing of a Leper and of a Paralytic"/>
+    <episode startId="SBLGNT.Luke.5.27.w1" episodeId="03§16" startWord="Καὶ"
+        endId="SBLGNT.Luke.5.39.w12" endWord="ἐστιν" episodeWordLength="233"
+        episodeTitle="The Call of Levi and the Discourse Concerning Christ’s Ministry"/>
+    <episode startId="SBLGNT.Luke.6.1.w1" episodeId="03§17" startWord="Ἐγένετο"
+        endId="SBLGNT.Luke.6.12.w20" endWord="θεοῦ" episodeWordLength="226"
+        episodeTitle="Disputes Concerning Sabbath Observance"/>
+    <episode startId="SBLGNT.Luke.6.13.w1" episodeId="03§18" startWord="καὶ"
+        endId="SBLGNT.Luke.6.16.w9" endWord="προδότης" episodeWordLength=" 56"
+        episodeTitle="The Twelve Apostles"/>
+    <episode startId="SBLGNT.Luke.6.17.w1" episodeId="03§19" startWord="Καὶ"
+        endId="SBLGNT.Luke.6.49.w31" endWord="μέγα" episodeWordLength="641"
+        episodeTitle="Miracles of Healing and Preaching"/>
+    <episode startId="SBLGNT.Luke.7.1.w1" episodeId="03§20" startWord="Ἐπειδὴ"
+        endId="SBLGNT.Luke.7.10.w11" endWord="ὑγιαίνοντα" episodeWordLength="186"
+        episodeTitle="The Centurion of Capernaum"/>
+    <episode startId="SBLGNT.Luke.7.11.w1" episodeId="03§21" startWord="Καὶ"
+        endId="SBLGNT.Luke.7.17.w15" endWord="περιχώρῳ" episodeWordLength="126"
+        episodeTitle="Raising of the Widow’s Son"/>
+    <episode startId="SBLGNT.Luke.7.18.w1" episodeId="03§22" startWord="Καὶ"
+        endId="SBLGNT.Luke.7.35.w9" endWord="αὐτῆς" episodeWordLength="304"
+        episodeTitle="The Embassy of John the Baptist"/>
+    <episode startId="SBLGNT.Luke.7.36.w1" episodeId="03§23" startWord="Ἠρώτα"
+        endId="SBLGNT.Luke.7.50.w13" endWord="εἰρήνην" episodeWordLength="273"
+        episodeTitle="The First Anointing of Jesus"/>
+    <episode startId="SBLGNT.Luke.8.1.w1" episodeId="03§24" startWord="Καὶ"
+        endId="SBLGNT.Luke.8.21.w21" endWord="ποιοῦντες" episodeWordLength="412"
+        episodeTitle="Teaching in Parables"/>
+    <episode startId="SBLGNT.Luke.8.22.w1" episodeId="03§25" startWord="Ἐγένετο"
+        endId="SBLGNT.Luke.8.25.w28" endWord="αὐτῷ" episodeWordLength=" 94"
+        episodeTitle="The Storm on the Sea"/>
+    <episode startId="SBLGNT.Luke.8.26.w1" episodeId="03§26" startWord="Καὶ"
+        endId="SBLGNT.Luke.8.39.w24" endWord="Ἰησοῦς" episodeWordLength="293"
+        episodeTitle="In the Country of the Gadarenes"/>
+    <episode startId="SBLGNT.Luke.8.40.w1" episodeId="03§27" startWord="Ἐν"
+        endId="SBLGNT.Luke.8.56.w13" endWord="γεγονός" episodeWordLength="287"
+        episodeTitle="The Woman with an Issue and the Daughter of Jairus"/>
+    <episode startId="SBLGNT.Luke.9.1.w1" episodeId="03§28" startWord="Συγκαλεσάμενος"
+        endId="SBLGNT.Luke.9.9.w19" endWord="αὐτόν" episodeWordLength="146"
+        episodeTitle="The Mission of the Twelve"/>
+    <episode startId="SBLGNT.Luke.9.10.w1" episodeId="03§29" startWord="Καὶ"
+        endId="SBLGNT.Luke.9.17.w13" endWord="δώδεκα" episodeWordLength="164"
+        episodeTitle="The Feeding of the Five Thousand"/>
+    <episode startId="SBLGNT.Luke.9.18.w1" episodeId="03§30" startWord="Καὶ"
+        endId="SBLGNT.Luke.9.27.w21" endWord="θεοῦ" episodeWordLength="197"
+        episodeTitle="Peter’s Confession and Christ’s Answer"/>
+    <episode startId="SBLGNT.Luke.9.28.w1" episodeId="03§31" startWord="Ἐγένετο"
+        endId="SBLGNT.Luke.9.36.w22" endWord="ἑώρακαν" episodeWordLength="178"
+        episodeTitle="The Transfiguration"/>
+    <episode startId="SBLGNT.Luke.9.37.w1" episodeId="03§32" startWord="Ἐγένετο"
+        endId="SBLGNT.Luke.9.45.w23" endWord="τούτου" episodeWordLength="178"
+        episodeTitle="The Healing of the Epileptic Boy"/>
+    <episode startId="SBLGNT.Luke.9.46.w1" episodeId="03§33" startWord="Εἰσῆλθεν"
+        endId="SBLGNT.Luke.9.56.w5" endWord="κώμην" episodeWordLength="172"
+        episodeTitle="Lessons in Humility"/>
+    <episode startId="SBLGNT.Luke.9.57.w1" episodeId="03§34" startWord="Καὶ"
+        endId="SBLGNT.Luke.9.62.w21" endWord="θεοῦ" episodeWordLength="115"
+        episodeTitle="True Discipleship of Christ"/>
+    <episode startId="SBLGNT.Luke.10.1.w1" episodeId="03§35" startWord="Μετὰ"
+        endId="SBLGNT.Luke.10.22.w34" endWord="ἀποκαλύψαι" episodeWordLength="429"
+        episodeTitle="The Mission of the Seventy"/>
+    <episode startId="SBLGNT.Luke.10.23.w1" episodeId="03§36" startWord="Καὶ"
+        endId="SBLGNT.Luke.10.37.w19" endWord="ὁμοίως" episodeWordLength="267"
+        episodeTitle="The Good Samaritan"/>
+    <episode startId="SBLGNT.Luke.10.38.w1" episodeId="03§37" startWord="Ἐν"
+        endId="SBLGNT.Luke.10.42.w16" endWord="αὐτῆς" episodeWordLength=" 92"
+        episodeTitle="Mary and Martha"/>
+    <episode startId="SBLGNT.Luke.11.1.w1" episodeId="03§38" startWord="Καὶ"
+        endId="SBLGNT.Luke.11.13.w25" endWord="αὐτόν" episodeWordLength="235"
+        episodeTitle="A Lesson in Prayer"/>
+    <episode startId="SBLGNT.Luke.11.14.w1" episodeId="03§39" startWord="Καὶ"
+        endId="SBLGNT.Luke.11.28.w13" endWord="φυλάσσοντες" episodeWordLength="257"
+        episodeTitle="Christ Casts Out a Demon and Rebukes the Pharisees"/>
+    <episode startId="SBLGNT.Luke.11.29.w1" episodeId="03§40" startWord="Τῶν"
+        endId="SBLGNT.Luke.11.36.w23" endWord="σε" episodeWordLength="179"
+        episodeTitle="The Sign of Jonah"/>
+    <episode startId="SBLGNT.Luke.11.37.w1" episodeId="03§41" startWord="Ἐν"
+        endId="SBLGNT.Luke.11.54.w8" endWord="αὐτοῦ" episodeWordLength="306"
+        episodeTitle="Woes upon the Pharisees and Lawyers"/>
+    <episode startId="SBLGNT.Luke.12.1.w1" episodeId="03§42" startWord="Ἐν"
+        endId="SBLGNT.Luke.12.21.w9" endWord="πλουτῶν" episodeWordLength="377"
+        episodeTitle="Warning against Hypocrisy and Covetousness"/>
+    <episode startId="SBLGNT.Luke.12.22.w1" episodeId="03§43" startWord="Εἶπεν"
+        endId="SBLGNT.Luke.12.59.w12" endWord="ἀποδῷς" episodeWordLength="665"
+        episodeTitle="Of Trust in God and Preparation for Christ’s Coming"/>
+    <episode startId="SBLGNT.Luke.13.1.w1" episodeId="03§44" startWord="Παρῆσαν"
+        endId="SBLGNT.Luke.13.9.w12" endWord="αὐτήν" episodeWordLength="167"
+        episodeTitle="Last Admonitions to Repentance"/>
+    <episode startId="SBLGNT.Luke.13.10.w1" episodeId="03§45" startWord="Ἦν"
+        endId="SBLGNT.Luke.13.17.w22" endWord="αὐτοῦ" episodeWordLength="160"
+        episodeTitle="The Crippled Woman Healed"/>
+    <episode startId="SBLGNT.Luke.13.18.w1" episodeId="03§46" startWord="Ἔλεγεν"
+        endId="SBLGNT.Luke.13.35.w23" endWord="κυρίου" episodeWordLength="333"
+        episodeTitle="Parables and Teachings"/>
+    <episode startId="SBLGNT.Luke.14.1.w1" episodeId="03§47" startWord="Καὶ"
+        endId="SBLGNT.Luke.14.14.w16" endWord="δικαίων" episodeWordLength="236"
+        episodeTitle="Christ the Guest of a Pharisee"/>
+    <episode startId="SBLGNT.Luke.14.15.w1" episodeId="03§48" startWord="Ἀκούσας"
+        endId="SBLGNT.Luke.14.24.w14" endWord="δείπνου" episodeWordLength="180"
+        episodeTitle="The Great Supper"/>
+    <episode startId="SBLGNT.Luke.14.25.w1" episodeId="03§49" startWord="Συνεπορεύοντο"
+        endId="SBLGNT.Luke.14.35.w16" endWord="ἀκουέτω" episodeWordLength="191"
+        episodeTitle="The Obligations of Christ’s Discipleship"/>
+    <episode startId="SBLGNT.Luke.15.1.w1" episodeId="03§50" startWord="Ἦσαν"
+        endId="SBLGNT.Luke.15.10.w14" endWord="μετανοοῦντι" episodeWordLength="170"
+        episodeTitle="Parables of the Love of Christ to the Lost"/>
+    <episode startId="SBLGNT.Luke.15.11.w1" episodeId="03§51" startWord="Εἶπεν"
+        endId="SBLGNT.Luke.15.32.w18" endWord="εὑρέθη" episodeWordLength="394"
+        episodeTitle="The Prodigal Son"/>
+    <episode startId="SBLGNT.Luke.16.1.w1" episodeId="03§52" startWord="Ἔλεγεν"
+        endId="SBLGNT.Luke.16.18.w17" endWord="μοιχεύει" episodeWordLength="351"
+        episodeTitle="The Parable of the Unjust Steward and Its Lessons"/>
+    <episode startId="SBLGNT.Luke.16.19.w1" episodeId="03§53" startWord="Ἄνθρωπος"
+        endId="SBLGNT.Luke.16.31.w17" endWord="πεισθήσονται" episodeWordLength="244"
+        episodeTitle="The Rich Man and Lazarus, the Beggar"/>
+    <episode startId="SBLGNT.Luke.17.1.w1" episodeId="03§54" startWord="Εἶπεν"
+        endId="SBLGNT.Luke.17.10.w18" endWord="πεποιήκαμεν" episodeWordLength="173"
+        episodeTitle="A Lesson on Offenses and Forgiveness"/>
+    <episode startId="SBLGNT.Luke.17.11.w1" episodeId="03§55" startWord="Καὶ"
+        endId="SBLGNT.Luke.17.19.w10" endWord="σε" episodeWordLength="116"
+        episodeTitle="The Ten Lepers"/>
+    <episode startId="SBLGNT.Luke.17.20.w1" episodeId="03§56" startWord="Ἐπερωτηθεὶς"
+        endId="SBLGNT.Luke.17.37.w18" endWord="ἐπισυναχθήσονται" episodeWordLength="279"
+        episodeTitle="Concerning the Kingdom of God and the Coming of Christ"/>
+    <episode startId="SBLGNT.Luke.18.1.w1" episodeId="03§57" startWord="Ἔλεγεν"
+        endId="SBLGNT.Luke.18.8.w22" endWord="γῆς" episodeWordLength="138"
+        episodeTitle="The Unjust Judge"/>
+    <episode startId="SBLGNT.Luke.18.9.w1" episodeId="03§58" startWord="Εἶπεν"
+        endId="SBLGNT.Luke.18.14.w22" endWord="ὑψωθήσεται" episodeWordLength="117"
+        episodeTitle="The Pharisee and the Publican"/>
+    <episode startId="SBLGNT.Luke.18.15.w1" episodeId="03§59" startWord="Προσέφερον"
+        endId="SBLGNT.Luke.18.17.w18" endWord="αὐτήν" episodeWordLength=" 57"
+        episodeTitle="Christ Blesses Little Children"/>
+    <episode startId="SBLGNT.Luke.18.18.w1" episodeId="03§60" startWord="Καὶ"
+        endId="SBLGNT.Luke.18.30.w17" endWord="αἰώνιον" episodeWordLength="200"
+        episodeTitle="Denying All for Christ’s Sake"/>
+    <episode startId="SBLGNT.Luke.18.31.w1" episodeId="03§61" startWord="Παραλαβὼν"
+        endId="SBLGNT.Luke.18.34.w18" endWord="λεγόμενα" episodeWordLength=" 61"
+        episodeTitle="The Lord’s Third Prediction of His Passion"/>
+    <episode startId="SBLGNT.Luke.18.35.w1" episodeId="03§62" startWord="Ἐγένετο"
+        endId="SBLGNT.Luke.18.43.w18" endWord="θεῷ" episodeWordLength="108"
+        episodeTitle="The Blind Man of Jericho"/>
+    <episode startId="SBLGNT.Luke.19.1.w1" episodeId="03§63" startWord="Καὶ"
+        endId="SBLGNT.Luke.19.10.w11" endWord="ἀπολωλός" episodeWordLength="147"
+        episodeTitle="Zacchaeus the Publican"/>
+    <episode startId="SBLGNT.Luke.19.11.w1" episodeId="03§64" startWord="Ἀκουόντων"
+        endId="SBLGNT.Luke.19.27.w19" endWord="μου" episodeWordLength="279"
+        episodeTitle="The Parable of the Talents"/>
+    <episode startId="SBLGNT.Luke.19.28.w1" episodeId="03§65" startWord="Καὶ"
+        endId="SBLGNT.Luke.19.48.w13" endWord="ἀκούων" episodeWordLength="327"
+        episodeTitle="Christ’s Entry into Jerusalem"/>
+    <episode startId="SBLGNT.Luke.20.1.w1" episodeId="03§66" startWord="Καὶ"
+        endId="SBLGNT.Luke.20.18.w15" endWord="αὐτόν" episodeWordLength="287"
+        episodeTitle="The Authority of Jesus"/>
+    <episode startId="SBLGNT.Luke.20.19.w1" episodeId="03§67" startWord="καὶ"
+        endId="SBLGNT.Luke.20.47.w14" endWord="κρίμα" episodeWordLength="412"
+        episodeTitle="The Pharisees and Sadducees Confounded"/>
+    <episode startId="SBLGNT.Luke.21.1.w1" episodeId="03§68" startWord="Ἀναβλέψας"
+        endId="SBLGNT.Luke.21.4.w23" endWord="ἔβαλεν" episodeWordLength=" 58"
+        episodeTitle="The Widow’s Gift"/>
+    <episode startId="SBLGNT.Luke.21.5.w1" episodeId="03§69" startWord="Καί"
+        endId="SBLGNT.Luke.21.38.w12" endWord="αὐτοῦ" episodeWordLength="528"
+        episodeTitle="The Destruction of Jerusalem and the End of the World"/>
+    <episode startId="SBLGNT.Luke.22.1.w1" episodeId="03§70" startWord="Ἤγγιζεν"
+        endId="SBLGNT.Luke.22.23.w16" endWord="πράσσειν" episodeWordLength="330"
+        episodeTitle="The Preparation for, and the Celebration of, the Passover"/>
+    <episode startId="SBLGNT.Luke.22.24.w1" episodeId="03§71" startWord="Ἐγένετο"
+        endId="SBLGNT.Luke.22.30.w22" endWord="Ἰσραήλ" episodeWordLength="110"
+        episodeTitle="A Lesson on Humility"/>
+    <episode startId="SBLGNT.Luke.22.31.w1" episodeId="03§72" startWord="Σίμων"
+        endId="SBLGNT.Luke.22.53.w26" endWord="σκότους" episodeWordLength="379"
+        episodeTitle="The Walk to Gethsemane and the Agony"/>
+    <episode startId="SBLGNT.Luke.22.54.w1" episodeId="03§73" startWord="Συλλαβόντες"
+        endId="SBLGNT.Luke.22.71.w15" endWord="αὐτοῦ" episodeWordLength="263"
+        episodeTitle="Christ before Caiaphas and The Denial of Peter"/>
+    <episode startId="SBLGNT.Luke.23.1.w1" episodeId="03§74" startWord="Καὶ"
+        endId="SBLGNT.Luke.23.25.w19" endWord="αὐτῶν" episodeWordLength="372"
+        episodeTitle="The Trial before Pilate"/>
+    <episode startId="SBLGNT.Luke.23.26.w1" episodeId="03§75" startWord="Καὶ"
+        endId="SBLGNT.Luke.23.56.w14" endWord="ἐντολήν" episodeWordLength="475"
+        episodeTitle="The Crucifixion, Death, and Burial of Christ"/>
+    <episode startId="SBLGNT.Luke.24.1.w1" episodeId="03§76" startWord="τῇ"
+        endId="SBLGNT.Luke.24.12.w21" endWord="γεγονός" episodeWordLength="173"
+        episodeTitle="The Resurrection of Christ"/>
+    <episode startId="SBLGNT.Luke.24.13.w1" episodeId="03§77" startWord="Καὶ"
+        endId="SBLGNT.Luke.24.35.w16" endWord="ἄρτου" episodeWordLength="391"
+        episodeTitle="The Emmaus Disciples"/>
+    <episode startId="SBLGNT.Luke.24.36.w1" episodeId="03§78" startWord="Ταῦτα"
+        endId="SBLGNT.Luke.24.53.w10" endWord="θεόν" episodeWordLength="245"
+        episodeTitle="The Last Appearances of Christ"/>
+    <episode startId="SBLGNT.John.1.1.w1" episodeId="04§01" startWord="Ἐν"
+        endId="SBLGNT.John.1.9.w13" endWord="κόσμον" episodeWordLength="107"
+        episodeTitle="The Word Became Flesh"/>
+    <episode startId="SBLGNT.John.1.10.w1" episodeId="04§02" startWord="Ἐν"
+        endId="SBLGNT.John.1.18.w15" endWord="ἐξηγήσατο" episodeWordLength="145"
+        episodeTitle="Jesus at the Feast of Tabernacles"/>
+    <episode startId="SBLGNT.John.1.19.w1" episodeId="04§03" startWord="Καὶ"
+        endId="SBLGNT.John.1.34.w11" endWord="θεοῦ" episodeWordLength="269"
+        episodeTitle="The Testimony of John the Baptist"/>
+    <episode startId="SBLGNT.John.1.35.w1" episodeId="04§04" startWord="Τῇ"
+        endId="SBLGNT.John.1.51.w24" endWord="ἀνθρώπου" episodeWordLength="305"
+        episodeTitle="The First Disciples of Jesus"/>
+    <episode startId="SBLGNT.John.2.1.w1" episodeId="04§05" startWord="Καὶ"
+        endId="SBLGNT.John.2.11.w23" endWord="αὐτοῦ" episodeWordLength="185"
+        episodeTitle="The Marriage at Cana"/>
+    <episode startId="SBLGNT.John.2.12.w1" episodeId="04§06" startWord="Μετὰ"
+        endId="SBLGNT.John.2.25.w19" endWord="ἀνθρώπῳ" episodeWordLength="245"
+        episodeTitle="The Purging of the Temple and Its Results"/>
+    <episode startId="SBLGNT.John.3.1.w1" episodeId="04§07" startWord="Ἦν"
+        endId="SBLGNT.John.3.21.w19" endWord="εἰργασμένα" episodeWordLength="395"
+        episodeTitle="The Visit of Nicodemus"/>
+    <episode startId="SBLGNT.John.3.22.w1" episodeId="04§08" startWord="Μετὰ"
+        endId="SBLGNT.John.3.36.w24" endWord="αὐτόν" episodeWordLength="262"
+        episodeTitle="John’s Second Testimony of Christ"/>
+    <episode startId="SBLGNT.John.4.1.w1" episodeId="04§09" startWord="Ὡς"
+        endId="SBLGNT.John.4.42.w24" endWord="κόσμου" episodeWordLength="713"
+        episodeTitle="Christ and the Woman of Samaria"/>
+    <episode startId="SBLGNT.John.4.43.w1" episodeId="04§10" startWord="Μετὰ"
+        endId="SBLGNT.John.4.54.w15" endWord="Γαλιλαίαν" episodeWordLength="223"
+        episodeTitle="The Healing of the Nobleman’s Son"/>
+    <episode startId="SBLGNT.John.5.1.w1" episodeId="04§11" startWord="Μετὰ"
+        endId="SBLGNT.John.5.16.w13" endWord="σαββάτῳ" episodeWordLength="235"
+        episodeTitle="The Sick Man of Bethesda"/>
+    <episode startId="SBLGNT.John.5.17.w1" episodeId="04§12" startWord="ὁ"
+        endId="SBLGNT.John.5.30.w30" endWord="με" episodeWordLength="294"
+        episodeTitle="The Relation between the Father and the Son"/>
+    <episode startId="SBLGNT.John.5.31.w1" episodeId="04§13" startWord="Ἐὰν"
+        endId="SBLGNT.John.5.47.w12" endWord="πιστεύσετε" episodeWordLength="261"
+        episodeTitle="The Witness of John, of the Father, and of Scriptures"/>
+    <episode startId="SBLGNT.John.6.1.w1" episodeId="04§14" startWord="Μετὰ"
+        endId="SBLGNT.John.6.14.w19" endWord="κόσμον" episodeWordLength="216"
+        episodeTitle="The Feeding of the Five Thousand"/>
+    <episode startId="SBLGNT.John.6.15.w1" episodeId="04§15" startWord="Ἰησοῦς"
+        endId="SBLGNT.John.6.21.w18" endWord="ὑπῆγον" episodeWordLength="106"
+        episodeTitle="Christ Walks on the Sea"/>
+    <episode startId="SBLGNT.John.6.22.w1" episodeId="04§16" startWord="Τῇ"
+        endId="SBLGNT.John.6.59.w7" endWord="Καφαρναούμ" episodeWordLength="721"
+        episodeTitle="Christ the Bread of Life"/>
+    <episode startId="SBLGNT.John.6.60.w1" episodeId="04§17" startWord="Πολλοὶ"
+        endId="SBLGNT.John.6.71.w15" endWord="δώδεκα" episodeWordLength="195"
+        episodeTitle="The Offense of Many Disciples"/>
+    <episode startId="SBLGNT.John.7.1.w1" episodeId="04§18" startWord="Καὶ"
+        endId="SBLGNT.John.7.52.w21" endWord="ἐγείρεται" episodeWordLength="850"
+        episodeTitle="The Unbelief of Christ’s Relatives"/>
+    <episode startId="SBLGNT.John.8.12.w1" episodeId="04§20" startWord="Πάλιν"
+        endId="SBLGNT.John.8.30.w7" endWord="αὐτόν" episodeWordLength="366"
+        episodeTitle="Jesus the Light of the World"/>
+    <episode startId="SBLGNT.John.8.31.w1" episodeId="04§21" startWord="Ἔλεγεν"
+        endId="SBLGNT.John.8.59.w15" endWord="ἱεροῦ" episodeWordLength="539"
+        episodeTitle="The True Liberty of the Gospel"/>
+    <episode startId="SBLGNT.John.9.1.w1" episodeId="04§22" startWord="Καὶ"
+        endId="SBLGNT.John.9.41.w20" endWord="μένει" episodeWordLength="689"
+        episodeTitle="Healing of the Man That was Born Blind"/>
+    <episode startId="SBLGNT.John.10.1.w1" episodeId="04§23" startWord="Ἀμὴν"
+        endId="SBLGNT.John.10.21.w14" endWord="ἀνοῖξαι" episodeWordLength="368"
+        episodeTitle="Jesus the Good Shepherd"/>
+    <episode startId="SBLGNT.John.10.22.w1" episodeId="04§24" startWord="Ἐγένετο"
+        endId="SBLGNT.John.10.42.w6" endWord="ἐκεῖ" episodeWordLength="329"
+        episodeTitle="Christ’s Sermon at the Feast of Dedication"/>
+    <episode startId="SBLGNT.John.11.1.w1" episodeId="04§25" startWord="Ἦν"
+        endId="SBLGNT.John.11.46.w14" endWord="Ἰησοῦς" episodeWordLength="734"
+        episodeTitle="The Raising of Lazarus"/>
+    <episode startId="SBLGNT.John.11.47.w1" episodeId="04§26" startWord="συνήγαγον"
+        endId="SBLGNT.John.11.57.w18" endWord="αὐτόν" episodeWordLength="210"
+        episodeTitle="The Council concerning Christ’s Removal"/>
+    <episode startId="SBLGNT.John.12.1.w1" episodeId="04§27" startWord="Ὁ"
+        endId="SBLGNT.John.12.11.w12" endWord="Ἰησοῦν" episodeWordLength="190"
+        episodeTitle="The Anointing of Jesus"/>
+    <episode startId="SBLGNT.John.12.12.w1" episodeId="04§28" startWord="Τῇ"
+        endId="SBLGNT.John.12.19.w17" endWord="ἀπῆλθεν" episodeWordLength="140"
+        episodeTitle="Christ’s Entry into Jerusalem"/>
+    <episode startId="SBLGNT.John.12.20.w1" episodeId="04§29" startWord="Ἦσαν"
+        endId="SBLGNT.John.12.33.w8" endWord="ἀποθνῄσκειν" episodeWordLength="231"
+        episodeTitle="Some Greeks Seek Jesus"/>
+    <episode startId="SBLGNT.John.12.34.w1" episodeId="04§30" startWord="ἀπεκρίθη"
+        endId="SBLGNT.John.12.41.w12" endWord="αὐτοῦ" episodeWordLength="164"
+        episodeTitle="Walking in the Light"/>
+    <episode startId="SBLGNT.John.12.42.w1" episodeId="04§31" startWord="ὅμως"
+        endId="SBLGNT.John.12.50.w20" endWord="λαλῶ" episodeWordLength="165"
+        episodeTitle="Of Faith in Christ and God"/>
+    <episode startId="SBLGNT.John.13.1.w1" episodeId="04§32" startWord="Πρὸ"
+        endId="SBLGNT.John.13.20.w19" endWord="με" episodeWordLength="358"
+        episodeTitle="Jesus Washing the Disciples’ Feet"/>
+    <episode startId="SBLGNT.John.13.21.w1" episodeId="04§33" startWord="Ταῦτα"
+        endId="SBLGNT.John.13.30.w10" endWord="νύξ" episodeWordLength="157"
+        episodeTitle="The Traitor at the Table"/>
+    <episode startId="SBLGNT.John.13.31.w1" episodeId="04§34" startWord="Ὅτε"
+        endId="SBLGNT.John.13.38.w21" endWord="τρίς" episodeWordLength="145"
+        episodeTitle="Concerning Christ’s Glorification"/>
+    <episode startId="SBLGNT.John.14.1.w1" episodeId="04§35" startWord="Μὴ"
+        endId="SBLGNT.John.14.14.w10" endWord="ποιήσω" episodeWordLength="257"
+        episodeTitle="Of Christ’s Going to the Father"/>
+    <episode startId="SBLGNT.John.14.15.w1" episodeId="04§36" startWord="Ἐὰν"
+        endId="SBLGNT.John.14.23.w28" endWord="ποιησόμεθα" episodeWordLength="170"
+        episodeTitle="Of Love and Life"/>
+    <episode startId="SBLGNT.John.14.24.w1" episodeId="04§37" startWord="ὁ"
+        endId="SBLGNT.John.14.31.w20" endWord="ἐντεῦθεν" episodeWordLength="150"
+        episodeTitle="Of the Work of the Spirit"/>
+    <episode startId="SBLGNT.John.15.1.w1" episodeId="04§38" startWord="Ἐγώ"
+        endId="SBLGNT.John.15.10.w24" endWord="ἀγάπῃ" episodeWordLength="190"
+        episodeTitle="Christ the True Vine"/>
+    <episode startId="SBLGNT.John.15.11.w1" episodeId="04§39" startWord="ταῦτα"
+        endId="SBLGNT.John.15.27.w10" endWord="ἐστε" episodeWordLength="310"
+        episodeTitle="The New Status of Christ’s Disciples"/>
+    <episode startId="SBLGNT.John.16.1.w1" episodeId="04§40" startWord="Ταῦτα"
+        endId="SBLGNT.John.16.15.w18" endWord="ὑμῖν" episodeWordLength="225"
+        episodeTitle="Comfort against the World’s Hatred"/>
+    <episode startId="SBLGNT.John.16.16.w1" episodeId="04§41" startWord="Μικρὸν"
+        endId="SBLGNT.John.16.33.w19" endWord="κόσμον" episodeWordLength="355"
+        episodeTitle="The Comfort of Christ’s Second Advent"/>
+    <episode startId="SBLGNT.John.17.1.w1" episodeId="04§42" startWord="Ταῦτα"
+        endId="SBLGNT.John.17.26.w20" endWord="αὐτοῖς" episodeWordLength="498"
+        episodeTitle="Christ’s Great Sacerdotal Prayer"/>
+    <episode startId="SBLGNT.John.18.1.w1" episodeId="04§43" startWord="Ταῦτα"
+        endId="SBLGNT.John.18.14.w15" endWord="λαοῦ" episodeWordLength="248"
+        episodeTitle="The Arrest of Jesus"/>
+    <episode startId="SBLGNT.John.18.15.w1" episodeId="04§44" startWord="Ἠκολούθει"
+        endId="SBLGNT.John.18.27.w8" endWord="ἐφώνησεν" episodeWordLength="253"
+        episodeTitle="Jesus Arraigned, and the Denial of Peter"/>
+    <episode startId="SBLGNT.John.18.28.w1" episodeId="04§45" startWord="Ἄγουσιν"
+        endId="SBLGNT.John.18.40.w14" endWord="λῃστής" episodeWordLength="289"
+        episodeTitle="The Trial before Pilate"/>
+    <episode startId="SBLGNT.John.19.1.w1" episodeId="04§46" startWord="Τότε"
+        endId="SBLGNT.John.19.15.w24" endWord="Καίσαρα" episodeWordLength="293"
+        episodeTitle="The Condemnation of Jesus"/>
+    <episode startId="SBLGNT.John.19.16.w1" episodeId="04§47" startWord="τότε"
+        endId="SBLGNT.John.19.30.w16" endWord="πνεῦμα" episodeWordLength="293"
+        episodeTitle="The Crucifixion"/>
+    <episode startId="SBLGNT.John.19.31.w1" episodeId="04§48" startWord="Οἱ"
+        endId="SBLGNT.John.19.42.w15" endWord="Ἰησοῦν" episodeWordLength="232"
+        episodeTitle="The Burial of Jesus"/>
+    <episode startId="SBLGNT.John.20.1.w1" episodeId="04§49" startWord="Τῇ"
+        endId="SBLGNT.John.20.18.w15" endWord="αὐτῇ" episodeWordLength="334"
+        episodeTitle="Easter Morning"/>
+    <episode startId="SBLGNT.John.20.19.w1" episodeId="04§50" startWord="Οὔσης"
+        endId="SBLGNT.John.20.31.w23" endWord="αὐτοῦ" episodeWordLength="280"
+        episodeTitle="Two Appearances to the Assembled Disciples"/>
+    <episode startId="SBLGNT.John.21.1.w1" episodeId="04§51" startWord="Μετὰ"
+        endId="SBLGNT.John.21.14.w11" endWord="νεκρῶν" episodeWordLength="280"
+        episodeTitle="The Appearance of Christ at the Sea of Tiberias"/>
+    <episode startId="SBLGNT.John.21.15.w1" episodeId="04§52" startWord="Ὅτε"
+        endId="SBLGNT.John.21.25.w23" endWord="βιβλία" episodeWordLength="269"
+        episodeTitle="The Test of Peter’s Love"/>
+    <episode startId="SBLGNT.Acts.1.1.w1" episodeId="05§01" startWord="Τὸν"
+        endId="SBLGNT.Acts.1.11.w31" endWord="οὐρανόν" episodeWordLength="215"
+        episodeTitle="The Ascension of Jesus"/>
+    <episode startId="SBLGNT.Acts.1.12.w1" episodeId="05§02" startWord="Τότε"
+        endId="SBLGNT.Acts.1.26.w16" endWord="ἀποστόλων" episodeWordLength="291"
+        episodeTitle="The Election of Matthias"/>
+    <episode startId="SBLGNT.Acts.2.1.w1" episodeId="05§03" startWord="Καὶ"
+        endId="SBLGNT.Acts.2.13.w8" endWord="εἰσίν" episodeWordLength="194"
+        episodeTitle="The Pentecost Miracle"/>
+    <episode startId="SBLGNT.Acts.2.14.w1" episodeId="05§04" startWord="Σταθεὶς"
+        endId="SBLGNT.Acts.2.47.w21" endWord="αὐτό" episodeWordLength="641"
+        episodeTitle="The Sermon of Peter and Its Effect"/>
+    <episode startId="SBLGNT.Acts.3.1.w1" episodeId="05§05" startWord="Πέτρος"
+        endId="SBLGNT.Acts.3.11.w21" endWord="ἔκθαμβοι" episodeWordLength="197"
+        episodeTitle="The Healing of the Lame Man"/>
+    <episode startId="SBLGNT.Acts.3.12.w1" episodeId="05§06" startWord="ἰδὼν"
+        endId="SBLGNT.Acts.3.26.w20" endWord="ὑμῶν" episodeWordLength="299"
+        episodeTitle="The Address of Peter in the Temple"/>
+    <episode startId="SBLGNT.Acts.4.1.w1" episodeId="05§07" startWord="Λαλούντων"
+        endId="SBLGNT.Acts.4.22.w15" endWord="ἰάσεως" episodeWordLength="388"
+        episodeTitle="Peter and John before the Council"/>
+    <episode startId="SBLGNT.Acts.4.23.w1" episodeId="05§08" startWord="Ἀπολυθέντες"
+        endId="SBLGNT.Acts.4.37.w14" endWord="ἀποστόλων" episodeWordLength="298"
+        episodeTitle="The Prayer and the Further Establishment of the Congregation"/>
+    <episode startId="SBLGNT.Acts.5.1.w1" episodeId="05§09" startWord="Ἀνὴρ"
+        endId="SBLGNT.Acts.5.11.w14" endWord="ταῦτα" episodeWordLength="206"
+        episodeTitle="Ananias and Sapphira"/>
+    <episode startId="SBLGNT.Acts.5.12.w1" episodeId="05§10" startWord="Διὰ"
+        endId="SBLGNT.Acts.5.16.w19" endWord="ἅπαντες" episodeWordLength=" 87"
+        episodeTitle="The Prosperity of the Church"/>
+    <episode startId="SBLGNT.Acts.5.17.w1" episodeId="05§11" startWord="Ἀναστὰς"
+        endId="SBLGNT.Acts.5.42.w17" endWord="Ἰησοῦν" episodeWordLength="478"
+        episodeTitle="The Imprisonment, Deliverance, and Defense of the Apostles"/>
+    <episode startId="SBLGNT.Acts.6.1.w1" episodeId="05§12" startWord="Ἐν"
+        endId="SBLGNT.Acts.6.8.w14" endWord="λαῷ" episodeWordLength="152"
+        episodeTitle="The Choosing of the First Deacons"/>
+    <episode startId="SBLGNT.Acts.6.9.w1" episodeId="05§13" startWord="ἀνέστησαν"
+        endId="SBLGNT.Acts.6.15.w17" endWord="ἀγγέλου" episodeWordLength="126"
+        episodeTitle="The Testimony of Stephen"/>
+    <episode startId="SBLGNT.Acts.7.1.w1" episodeId="05§14" startWord="Εἶπεν"
+        endId="SBLGNT.Acts.7.60.w18" endWord="ἐκοιμήθη" episodeWordLength="1116"
+        episodeTitle="The Defense of Stephen and His Death"/>
+    <episode startId="SBLGNT.Acts.8.1.w1" episodeId="05§15" startWord="Σαῦλος"
+        endId="SBLGNT.Acts.8.25.w19" endWord="εὐηγγελίζοντο" episodeWordLength="416"
+        episodeTitle="The Gospel Planted in Samaria"/>
+    <episode startId="SBLGNT.Acts.8.26.w1" episodeId="05§16" startWord="Ἄγγελος"
+        endId="SBLGNT.Acts.8.40.w17" endWord="Καισάρειαν" episodeWordLength="278"
+        episodeTitle="The Ethiopian Eunuch"/>
+    <episode startId="SBLGNT.Acts.9.1.w1" episodeId="05§17" startWord="Ὁ"
+        endId="SBLGNT.Acts.9.31.w28" endWord="ἐπληθύνετο" episodeWordLength="563"
+        episodeTitle="The Conversion and Early Labors of Paul"/>
+    <episode startId="SBLGNT.Acts.9.32.w1" episodeId="05§18" startWord="Ἐγένετο"
+        endId="SBLGNT.Acts.9.43.w11" endWord="βυρσεῖ" episodeWordLength="223"
+        episodeTitle="Two Miracles Performed by Peter"/>
+    <episode startId="SBLGNT.Acts.10.1.w1" episodeId="05§19" startWord="Ἀνὴρ"
+        endId="SBLGNT.Acts.10.48.w15" endWord="τινάς" episodeWordLength="836"
+        episodeTitle="Cornelius the Centurion"/>
+    <episode startId="SBLGNT.Acts.11.1.w1" episodeId="05§20" startWord="Ἤκουσαν"
+        endId="SBLGNT.Acts.11.18.w20" endWord="ἔδωκεν" episodeWordLength="311"
+        episodeTitle="Jewish Brethren Rejoice that Gentiles Granted Repentance"/>
+    <episode startId="SBLGNT.Acts.11.19.w1" episodeId="05§21" startWord="Οἱ"
+        endId="SBLGNT.Acts.11.30.w12" endWord="Σαύλου" episodeWordLength="216"
+        episodeTitle="The Establishment of the Congregation at Antioch"/>
+    <episode startId="SBLGNT.Acts.12.1.w1" episodeId="05§22" startWord="Κατ’"
+        endId="SBLGNT.Acts.12.25.w15" endWord="Μᾶρκον" episodeWordLength="492"
+        episodeTitle="Herod Persecutes the Church at Jerusalem and is Punished by God"/>
+    <episode startId="SBLGNT.Acts.13.1.w1" episodeId="05§23" startWord="Ἦσαν"
+        endId="SBLGNT.Acts.13.12.w13" endWord="κυρίου" episodeWordLength="229"
+        episodeTitle="Paul and Barnabas on the Island of Cyprus"/>
+    <episode startId="SBLGNT.Acts.13.13.w1" episodeId="05§24" startWord="Ἀναχθέντες"
+        endId="SBLGNT.Acts.13.52.w8" endWord="ἁγίου" episodeWordLength="702"
+        episodeTitle="At Antioch, in Pisidia"/>
+    <episode startId="SBLGNT.Acts.14.1.w1" episodeId="05§25" startWord="Ἐγένετο"
+        endId="SBLGNT.Acts.14.18.w11" endWord="αὐτοῖς" episodeWordLength="315"
+        episodeTitle="Paul and Barnabas at Iconium and Lystra"/>
+    <episode startId="SBLGNT.Acts.14.19.w1" episodeId="05§26" startWord="Ἐπῆλθαν"
+        endId="SBLGNT.Acts.14.28.w8" endWord="μαθηταῖς" episodeWordLength="158"
+        episodeTitle="The Return Journey to Syria"/>
+    <episode startId="SBLGNT.Acts.15.1.w1" episodeId="05§27" startWord="Καί"
+        endId="SBLGNT.Acts.15.35.w18" endWord="κυρίου" episodeWordLength="600"
+        episodeTitle="The Convention at Jerusalem"/>
+    <episode startId="SBLGNT.Acts.15.36.w1" episodeId="05§28" startWord="Μετὰ"
+        endId="SBLGNT.Acts.15.41.w10" endWord="ἐκκλησίας" episodeWordLength=" 94"
+        episodeTitle="The Beginning of Paul’s Second Missionary Journey"/>
+    <episode startId="SBLGNT.Acts.16.1.w1" episodeId="05§29" startWord="Κατήντησεν"
+        endId="SBLGNT.Acts.16.10.w18" endWord="αὐτούς" episodeWordLength="176"
+        episodeTitle="Paul and Silas in Asia Minor"/>
+    <episode startId="SBLGNT.Acts.16.11.w1" episodeId="05§30" startWord="Ἀναχθέντες"
+        endId="SBLGNT.Acts.16.40.w16" endWord="ἐξῆλθαν" episodeWordLength="543"
+        episodeTitle="Paul and His Companions at Philippi"/>
+    <episode startId="SBLGNT.Acts.17.1.w1" episodeId="05§31" startWord="Διοδεύσαντες"
+        endId="SBLGNT.Acts.17.14.w22" endWord="ἐκεῖ" episodeWordLength="280"
+        episodeTitle="Paul and Silas in Thessalonica and Berea"/>
+    <episode startId="SBLGNT.Acts.17.15.w1" episodeId="05§32" startWord="οἱ"
+        endId="SBLGNT.Acts.17.34.w20" endWord="αὐτοῖς" episodeWordLength="395"
+        episodeTitle="Paul in Athens"/>
+    <episode startId="SBLGNT.Acts.18.1.w1" episodeId="05§33" startWord="Μετὰ"
+        endId="SBLGNT.Acts.18.17.w16" endWord="ἔμελεν" episodeWordLength="311"
+        episodeTitle="Paul at Corinth"/>
+    <episode startId="SBLGNT.Acts.18.18.w1" episodeId="05§34" startWord="Ὁ"
+        endId="SBLGNT.Acts.18.28.w14" endWord="Ἰησοῦν" episodeWordLength="199"
+        episodeTitle="The Return Trip to Antioch and the Beginning of the Third Journey"/>
+    <episode startId="SBLGNT.Acts.19.1.w1" episodeId="05§35" startWord="Ἐγένετο"
+        endId="SBLGNT.Acts.19.20.w10" endWord="ἴσχυεν" episodeWordLength="364"
+        episodeTitle="Paul’s Work at Ephesus"/>
+    <episode startId="SBLGNT.Acts.19.21.w1" episodeId="05§36" startWord="Ὡς"
+        endId="SBLGNT.Acts.19.40.w27" endWord="ἐκκλησίαν" episodeWordLength="389"
+        episodeTitle="The Tumult of Demetrius"/>
+    <episode startId="SBLGNT.Acts.20.1.w1" episodeId="05§37" startWord="Μετὰ"
+        endId="SBLGNT.Acts.20.16.w28" endWord="Ἱεροσόλυμα" episodeWordLength="292"
+        episodeTitle="The Journey to Macedonia and Back to Miletus"/>
+    <episode startId="SBLGNT.Acts.20.17.w1" episodeId="05§38" startWord="Ἀπὸ"
+        endId="SBLGNT.Acts.20.38.w20" endWord="πλοῖον" episodeWordLength="384"
+        episodeTitle="Paul and the Elders of Ephesus"/>
+    <episode startId="SBLGNT.Acts.21.1.w1" episodeId="05§39" startWord="Ὡς"
+        endId="SBLGNT.Acts.21.16.w18" endWord="μαθητῇ" episodeWordLength="299"
+        episodeTitle="The Trip to Jerusalem"/>
+    <episode startId="SBLGNT.Acts.21.17.w1" episodeId="05§40" startWord="Γενομένων"
+        endId="SBLGNT.Acts.21.39.w25" endWord="λαόν" episodeWordLength="476"
+        episodeTitle="The Uprising against Paul"/>
+    <episode startId="SBLGNT.Acts.21.40.w1" episodeId="05§41" startWord="ἐπιτρέψαντος"
+        endId="SBLGNT.Acts.22.21.w12" endWord="σε" episodeWordLength="408"
+        episodeTitle="Paul Address in Hebrew"/>
+    <episode startId="SBLGNT.Acts.22.22.w1" episodeId="05§42" startWord="Ἤκουον"
+        endId="SBLGNT.Acts.22.30.w31" endWord="αὐτούς" episodeWordLength="184"
+        episodeTitle="Paul and the Chief Captain"/>
+    <episode startId="SBLGNT.Acts.23.1.w1" episodeId="05§43" startWord="ἀτενίσας"
+        endId="SBLGNT.Acts.23.11.w25" endWord="μαρτυρῆσαι" episodeWordLength="230"
+        episodeTitle="The Hearing in the Presence of the Sanhedrin"/>
+    <episode startId="SBLGNT.Acts.23.12.w1" episodeId="05§44" startWord="Γενομένης"
+        endId="SBLGNT.Acts.23.22.w15" endWord="ἐμέ" episodeWordLength="233"
+        episodeTitle="The Plot to Kill Paul"/>
+    <episode startId="SBLGNT.Acts.23.23.w1" episodeId="05§45" startWord="Καὶ"
+        endId="SBLGNT.Acts.23.35.w17" endWord="αὐτόν" episodeWordLength="198"
+        episodeTitle="Paul Brought to Caesarea"/>
+    <episode startId="SBLGNT.Acts.24.1.w1" episodeId="05§46" startWord="Μετὰ"
+        endId="SBLGNT.Acts.24.22.w21" endWord="ὑμᾶς" episodeWordLength="352"
+        episodeTitle="Paul’s Trial before Felix"/>
+    <episode startId="SBLGNT.Acts.24.23.w1" episodeId="05§47" startWord="διαταξάμενος"
+        endId="SBLGNT.Acts.24.27.w21" endWord="δεδεμένον" episodeWordLength="106"
+        episodeTitle="Paul Retained a Prisoner"/>
+    <episode startId="SBLGNT.Acts.25.1.w1" episodeId="05§48" startWord="Φῆστος"
+        endId="SBLGNT.Acts.25.12.w13" endWord="πορεύσῃ" episodeWordLength="223"
+        episodeTitle="Paul Appeals to Caesar"/>
+    <episode startId="SBLGNT.Acts.25.13.w1" episodeId="05§49" startWord="Ἡμερῶν"
+        endId="SBLGNT.Acts.25.27.w13" endWord="σημᾶναι" episodeWordLength="307"
+        episodeTitle="Agrippa and Bernice in Caesarea"/>
+    <episode startId="SBLGNT.Acts.26.1.w1" episodeId="05§50" startWord="Ἀγρίππας"
+        endId="SBLGNT.Acts.26.32.w14" endWord="Καίσαρα" episodeWordLength="593"
+        episodeTitle="The Hearing before Agrippa"/>
+    <episode startId="SBLGNT.Acts.27.1.w1" episodeId="05§51" startWord="Ὡς"
+        endId="SBLGNT.Acts.27.44.w23" endWord="γῆν" episodeWordLength="752"
+        episodeTitle="The Voyage from Caesarea to Melita"/>
+    <episode startId="SBLGNT.Acts.28.1.w1" episodeId="05§52" startWord="Καὶ"
+        endId="SBLGNT.Acts.28.16.w16" endWord="στρατιώτῃ" episodeWordLength="291"
+        episodeTitle="The Journey from Melita to Rome"/>
+    <episode startId="SBLGNT.Acts.28.17.w1" episodeId="05§53" startWord="Ἐγένετο"
+        endId="SBLGNT.Acts.28.31.w17" endWord="ἀκωλύτως" episodeWordLength="306"
+        episodeTitle="Two Years at Rome"/>
+    <episode startId="SBLGNT.Rom.1.1.w1" episodeId="06§01" startWord="Παῦλος"
+        endId="SBLGNT.Rom.1.7.w21" endWord="Χριστοῦ" episodeWordLength=" 93"
+        episodeTitle="The Salutation of the Letter"/>
+    <episode startId="SBLGNT.Rom.1.8.w1" episodeId="06§02" startWord="Πρῶτον"
+        endId="SBLGNT.Rom.1.15.w11" endWord="εὐαγγελίσασθαι" episodeWordLength="143"
+        episodeTitle="The Introduction to the Letter"/>
+    <episode startId="SBLGNT.Rom.1.16.w1" episodeId="06§03" startWord="Οὐ"
+        endId="SBLGNT.Rom.1.17.w18" endWord="ζήσεται" episodeWordLength=" 37"
+        episodeTitle="The Theme of the Letter"/>
+    <episode startId="SBLGNT.Rom.1.18.w1" episodeId="06§04" startWord="Ἀποκαλύπτεται"
+        endId="SBLGNT.Rom.1.32.w23" endWord="πράσσουσιν" episodeWordLength="270"
+        episodeTitle="The Moral Decay of the Gentile World"/>
+    <episode startId="SBLGNT.Rom.2.1.w1" episodeId="06§05" startWord="Διὸ"
+        endId="SBLGNT.Rom.2.10.w16" endWord="Ἕλληνι" episodeWordLength="168"
+        episodeTitle="God’s Righteous Judgment"/>
+    <episode startId="SBLGNT.Rom.2.11.w1" episodeId="06§06" startWord="οὐ"
+        endId="SBLGNT.Rom.2.29.w23" endWord="θεοῦ" episodeWordLength="281"
+        episodeTitle="The Necessity of Keeping the Law Properly"/>
+    <episode startId="SBLGNT.Rom.3.1.w1" episodeId="06§07" startWord="Τί" endId="SBLGNT.Rom.3.8.w23"
+        endWord="ἐστιν" episodeWordLength="139" episodeTitle="Man’s Guilt and God’s Righteousness"/>
+    <episode startId="SBLGNT.Rom.3.9.w1" episodeId="06§08" startWord="Τί"
+        endId="SBLGNT.Rom.3.20.w15" endWord="ἁμαρτίας" episodeWordLength="132"
+        episodeTitle="The Scriptural Proof for the Universal Guilt of Mankind"/>
+    <episode startId="SBLGNT.Rom.3.21.w1" episodeId="06§09" startWord="Νυνὶ"
+        endId="SBLGNT.Rom.3.31.w11" endWord="ἱστάνομεν" episodeWordLength="157"
+        episodeTitle="Justification by Faith"/>
+    <episode startId="SBLGNT.Rom.4.1.w1" episodeId="06§10" startWord="Τί"
+        endId="SBLGNT.Rom.4.25.w12" endWord="ἡμῶν" episodeWordLength="399"
+        episodeTitle="The Righteousness of God Demonstrated from History"/>
+    <episode startId="SBLGNT.Rom.5.1.w1" episodeId="06§11" startWord="Δικαιωθέντες"
+        endId="SBLGNT.Rom.5.11.w21" endWord="ἐλάβομεν" episodeWordLength="184"
+        episodeTitle="The Blessed Consequences of Justification"/>
+    <episode startId="SBLGNT.Rom.5.12.w1" episodeId="06§12" startWord="Διὰ"
+        endId="SBLGNT.Rom.5.21.w24" endWord="ἡμῶν" episodeWordLength="248"
+        episodeTitle="The First and the Second Adam"/>
+    <episode startId="SBLGNT.Rom.6.1.w1" episodeId="06§13" startWord="Τί"
+        endId="SBLGNT.Rom.6.14.w13" endWord="χάριν" episodeWordLength="209"
+        episodeTitle="Sanctification as a Fruit of Justification"/>
+    <episode startId="SBLGNT.Rom.6.15.w1" episodeId="06§14" startWord="Τί"
+        endId="SBLGNT.Rom.6.23.w19" endWord="ἡμῶν" episodeWordLength="158"
+        episodeTitle="The Service of Righteousness"/>
+    <episode startId="SBLGNT.Rom.7.1.w1" episodeId="06§15" startWord="Ἢ" endId="SBLGNT.Rom.7.6.w20"
+        endWord="γράμματος" episodeWordLength="136" episodeTitle="Freedom from the Law"/>
+    <episode startId="SBLGNT.Rom.7.7.w1" episodeId="06§16" startWord="Τί"
+        endId="SBLGNT.Rom.7.25.w24" endWord="ἁμαρτίας" episodeWordLength="331"
+        episodeTitle="The Purpose of the Law and Its Effect"/>
+    <episode startId="SBLGNT.Rom.8.1.w1" episodeId="06§17" startWord="Οὐδὲν"
+        endId="SBLGNT.Rom.8.17.w16" endWord="συνδοξασθῶμεν" episodeWordLength="288"
+        episodeTitle="The Life in the Spirit"/>
+    <episode startId="SBLGNT.Rom.8.18.w1" episodeId="06§18" startWord="Λογίζομαι"
+        endId="SBLGNT.Rom.8.39.w23" endWord="ἡμῶν" episodeWordLength="364"
+        episodeTitle="Comfort in the Manifold Afflictions of this Life"/>
+    <episode startId="SBLGNT.Rom.9.1.w1" episodeId="06§19" startWord="Ἀλήθειαν"
+        endId="SBLGNT.Rom.9.13.w9" endWord="ἐμίσησα" episodeWordLength="204"
+        episodeTitle="The Distinction between the True and the False Israel"/>
+    <episode startId="SBLGNT.Rom.9.14.w1" episodeId="06§20" startWord="Τί"
+        endId="SBLGNT.Rom.9.29.w20" endWord="ὡμοιώθημεν" episodeWordLength="263"
+        episodeTitle="The Divine Sovereignty and Its Result"/>
+    <episode startId="SBLGNT.Rom.9.30.w1" episodeId="06§21" startWord="Τί"
+        endId="SBLGNT.Rom.10.21.w17" endWord="ἀντιλέγοντα" episodeWordLength="396"
+        episodeTitle="Israel’s Unbelief"/>
+    <episode startId="SBLGNT.Rom.11.1.w1" episodeId="06§22" startWord="Λέγω"
+        endId="SBLGNT.Rom.11.10.w14" endWord="σύγκαμψον" episodeWordLength="173"
+        episodeTitle="A Remnant of Israel Saved"/>
+    <episode startId="SBLGNT.Rom.11.11.w1" episodeId="06§23" startWord="Λέγω"
+        endId="SBLGNT.Rom.11.36.w18" endWord="ἀμήν" episodeWordLength="405"
+        episodeTitle="An Admonition and Encouragement to Gentiles and Jews"/>
+    <episode startId="SBLGNT.Rom.12.1.w1" episodeId="06§24" startWord="Παρακαλῶ"
+        endId="SBLGNT.Rom.12.21.w12" endWord="κακόν" episodeWordLength="304"
+        episodeTitle="The Christian’s Life a Reasonable Service to God"/>
+    <episode startId="SBLGNT.Rom.13.1.w1" episodeId="06§25" startWord="Πᾶσα"
+        endId="SBLGNT.Rom.13.7.w24" endWord="τιμήν" episodeWordLength="144"
+        episodeTitle="Obedience to the Government"/>
+    <episode startId="SBLGNT.Rom.13.8.w1" episodeId="06§26" startWord="Μηδενὶ"
+        endId="SBLGNT.Rom.13.14.w14" endWord="ἐπιθυμίας" episodeWordLength="126"
+        episodeTitle="Love toward One’s Neighbor, the Walk in the Light"/>
+    <episode startId="SBLGNT.Rom.14.1.w1" episodeId="06§27" startWord="Τὸν"
+        endId="SBLGNT.Rom.14.23.w18" endWord="ἐστίν" episodeWordLength="379"
+        episodeTitle="The Conduct of Christians toward Such as Are Weak in Faith"/>
+    <episode startId="SBLGNT.Rom.15.1.w1" episodeId="06§28" startWord="Ὀφείλομεν"
+        endId="SBLGNT.Rom.15.13.w25" endWord="ἁγίου" episodeWordLength="212"
+        episodeTitle="An Admonition to Patience and Harmony"/>
+    <episode startId="SBLGNT.Rom.15.14.w1" episodeId="06§29" startWord="Πέπεισμαι"
+        endId="SBLGNT.Rom.15.33.w9" endWord="ἀμήν" episodeWordLength="329"
+        episodeTitle="The Epilog of the Letter"/>
+    <episode startId="SBLGNT.Rom.16.1.w1" episodeId="06§30" startWord="Συνίστημι"
+        endId="SBLGNT.Rom.16.24.w11" endWord="Ἀμήν" episodeWordLength="383"
+        episodeTitle="A Recommendation, Greetings, and a Final Admonition"/>
+    <episode startId="SBLGNT.1Cor.1.1.w1" episodeId="07§01" startWord="Παῦλος"
+        endId="SBLGNT.1Cor.1.9.w16" endWord="ἡμῶν" episodeWordLength="139"
+        episodeTitle="Salutation and Thanksgiving"/>
+    <episode startId="SBLGNT.1Cor.1.10.w1" episodeId="07§02" startWord="Παρακαλῶ"
+        endId="SBLGNT.1Cor.1.16.w13" endWord="ἐβάπτισα" episodeWordLength="117"
+        episodeTitle="A Reproof of Disharmony"/>
+    <episode startId="SBLGNT.1Cor.1.17.w1" episodeId="07§03" startWord="οὐ"
+        endId="SBLGNT.1Cor.1.31.w8" endWord="καυχάσθω" episodeWordLength="241"
+        episodeTitle="The Wisdom of God and the Foolishness of Men"/>
+    <episode startId="SBLGNT.1Cor.2.1.w1" episodeId="07§04" startWord="Κἀγὼ"
+        endId="SBLGNT.1Cor.2.16.w13" endWord="ἔχομεν" episodeWordLength="287"
+        episodeTitle="The Preaching of the Cross"/>
+    <episode startId="SBLGNT.1Cor.3.1.w1" episodeId="07§05" startWord="Κἀγώ"
+        endId="SBLGNT.1Cor.3.23.w6" endWord="θεοῦ" episodeWordLength="340"
+        episodeTitle="A Reproof of Spiritual Pride"/>
+    <episode startId="SBLGNT.1Cor.4.1.w1" episodeId="07§06" startWord="Οὕτως"
+        endId="SBLGNT.1Cor.4.21.w13" endWord="πραΰτητος" episodeWordLength="345"
+        episodeTitle="The Work of the Ministers of Christ"/>
+    <episode startId="SBLGNT.1Cor.5.1.w1" episodeId="07§07" startWord="Ὅλως"
+        endId="SBLGNT.1Cor.5.13.w12" endWord="αὐτῶν" episodeWordLength="221"
+        episodeTitle="The Necessity of Church Discipline"/>
+    <episode startId="SBLGNT.1Cor.6.1.w1" episodeId="07§08" startWord="Τολμᾷ"
+        endId="SBLGNT.1Cor.6.11.w23" endWord="ἡμῶν" episodeWordLength="172"
+        episodeTitle="Lawsuits against Believers"/>
+    <episode startId="SBLGNT.1Cor.6.12.w1" episodeId="07§09" startWord="Πάντα"
+        endId="SBLGNT.1Cor.6.20.w11" endWord="ὑμῶν" episodeWordLength="162"
+        episodeTitle="The Necessity of Keeping the Body Undefiled"/>
+    <episode startId="SBLGNT.1Cor.7.1.w1" episodeId="07§10" startWord="Περὶ"
+        endId="SBLGNT.1Cor.7.40.w16" endWord="ἔχειν" episodeWordLength="687"
+        episodeTitle="Instructions with Regard to Marriage"/>
+    <episode startId="SBLGNT.1Cor.8.1.w1" episodeId="07§11" startWord="Περὶ"
+        endId="SBLGNT.1Cor.8.13.w20" endWord="σκανδαλίσω" episodeWordLength="226"
+        episodeTitle="Christian Liberty in the Matter of Eating Meat Offered to Idols"/>
+    <episode startId="SBLGNT.1Cor.9.1.w1" episodeId="07§12" startWord="Οὐκ"
+        endId="SBLGNT.1Cor.9.27.w14" endWord="γένωμαι" episodeWordLength="449"
+        episodeTitle="Paul the Free Servant of Christ"/>
+    <episode startId="SBLGNT.1Cor.10.1.w1" episodeId="07§13" startWord="Οὐ"
+        endId="SBLGNT.1Cor.10.13.w30" endWord="ὑπενεγκεῖν" episodeWordLength="197"
+        episodeTitle="A Warning against Carnal Security"/>
+    <episode startId="SBLGNT.1Cor.10.14.w1" episodeId="07§14" startWord="Διόπερ"
+        endId="SBLGNT.1Cor.10.33.w16" endWord="σωθῶσιν" episodeWordLength="266"
+        episodeTitle="Conduct toward the Weak"/>
+    <episode startId="SBLGNT.1Cor.11.1.w1" episodeId="07§15" startWord="μιμηταί"
+        endId="SBLGNT.1Cor.11.34.w18" endWord="διατάξομαι" episodeWordLength="529"
+        episodeTitle="Conduct in Public Worship"/>
+    <episode startId="SBLGNT.1Cor.12.1.w1" episodeId="07§16" startWord="Περὶ"
+        endId="SBLGNT.1Cor.12.31.w13" endWord="δείκνυμι" episodeWordLength="465"
+        episodeTitle="Of the Use and Purpose of Spiritual Gifts"/>
+    <episode startId="SBLGNT.1Cor.13.1.w1" episodeId="07§17" startWord="Ἐὰν"
+        endId="SBLGNT.1Cor.13.13.w14" endWord="ἀγάπη" episodeWordLength="197"
+        episodeTitle="A Psalm of Love"/>
+    <episode startId="SBLGNT.1Cor.14.1.w1" episodeId="07§18" startWord="Διώκετε"
+        endId="SBLGNT.1Cor.14.40.w7" endWord="γινέσθω" episodeWordLength="606"
+        episodeTitle="The Use of Spiritual Gifts in Public Worship"/>
+    <episode startId="SBLGNT.1Cor.15.1.w1" episodeId="07§19" startWord="Γνωρίζω"
+        endId="SBLGNT.1Cor.15.58.w24" endWord="κυρίῳ" episodeWordLength="843"
+        episodeTitle="Of the Resurrection of the Dead"/>
+    <episode startId="SBLGNT.1Cor.16.1.w1" episodeId="07§20" startWord="Περὶ"
+        endId="SBLGNT.1Cor.16.24.w9" endWord="Ἰησοῦ" episodeWordLength="323"
+        episodeTitle="Concluding Admonitions"/>
+    <episode startId="SBLGNT.2Cor.1.1.w1" episodeId="08§01" startWord="Παῦλος"
+        endId="SBLGNT.2Cor.1.11.w20" endWord="ἡμῶν" episodeWordLength="232"
+        episodeTitle="Address, Thanksgiving, and Consolation"/>
+    <episode startId="SBLGNT.2Cor.1.12.w1" episodeId="08§02" startWord="Ἡ"
+        endId="SBLGNT.2Cor.1.24.w16" endWord="ἑστήκατε" episodeWordLength="255"
+        episodeTitle="Paul’s Vindication of His Conduct and Life"/>
+    <episode startId="SBLGNT.2Cor.2.1.w1" episodeId="08§03" startWord="ἔκρινα"
+        endId="SBLGNT.2Cor.2.11.w12" endWord="ἀγνοοῦμεν" episodeWordLength="170"
+        episodeTitle="Paul’s Apostolic Kindness"/>
+    <episode startId="SBLGNT.2Cor.2.12.w1" episodeId="08§04" startWord="Ἐλθὼν"
+        endId="SBLGNT.2Cor.2.17.w24" endWord="λαλοῦμεν" episodeWordLength="115"
+        episodeTitle="Paul’s Triumph in Christ"/>
+    <episode startId="SBLGNT.2Cor.3.1.w1" episodeId="08§05" startWord="Ἀρχόμεθα"
+        endId="SBLGNT.2Cor.3.18.w21" endWord="πνεύματος" episodeWordLength="296"
+        episodeTitle="The Glory of the New Testament Ministry"/>
+    <episode startId="SBLGNT.2Cor.4.1.w1" episodeId="08§06" startWord="Διὰ"
+        endId="SBLGNT.2Cor.4.18.w18" endWord="αἰώνια" episodeWordLength="320"
+        episodeTitle="The Gospel-Message of Light and Life"/>
+    <episode startId="SBLGNT.2Cor.5.1.w1" episodeId="08§07" startWord="Οἴδαμεν"
+        endId="SBLGNT.2Cor.5.10.w25" endWord="φαῦλον" episodeWordLength="149"
+        episodeTitle="Paul’s Longing for the Future Glory"/>
+    <episode startId="SBLGNT.2Cor.5.11.w1" episodeId="08§08" startWord="Εἰδότες"
+        endId="SBLGNT.2Cor.5.21.w15" endWord="αὐτῷ" episodeWordLength="189"
+        episodeTitle="Paul an Ambassador of Christ"/>
+    <episode startId="SBLGNT.2Cor.6.1.w1" episodeId="08§09" startWord="Συνεργοῦντες"
+        endId="SBLGNT.2Cor.6.10.w16" endWord="κατέχοντες" episodeWordLength="143"
+        episodeTitle="Paul’s Ministry in the Midst of Difficulties"/>
+    <episode startId="SBLGNT.2Cor.6.11.w1" episodeId="08§10" startWord="Τὸ"
+        endId="SBLGNT.2Cor.6.18.w16" endWord="παντοκράτωρ" episodeWordLength="123"
+        episodeTitle="Admonition to Flee the Fellowship of Unbelievers"/>
+    <episode startId="SBLGNT.2Cor.7.1.w1" episodeId="08§11" startWord="ταύτας"
+        endId="SBLGNT.2Cor.7.16.w7" endWord="ὑμῖν" episodeWordLength="328"
+        episodeTitle="Paul’s Consolation and Joy because of the Corinthians"/>
+    <episode startId="SBLGNT.2Cor.8.1.w1" episodeId="08§12" startWord="Γνωρίζομεν"
+        endId="SBLGNT.2Cor.8.24.w18" endWord="ἐκκλησιῶν" episodeWordLength="410"
+        episodeTitle="Paul’s Tactful Appeal and Recommendation"/>
+    <episode startId="SBLGNT.2Cor.9.1.w1" episodeId="08§13" startWord="Περὶ"
+        endId="SBLGNT.2Cor.9.15.w8" endWord="δωρεᾷ" episodeWordLength="284"
+        episodeTitle="Paul’s Final Instructions Concerning the Collection"/>
+    <episode startId="SBLGNT.2Cor.10.1.w1" episodeId="08§14" startWord="Αὐτὸς"
+        endId="SBLGNT.2Cor.10.18.w13" endWord="συνίστησιν" episodeWordLength="311"
+        episodeTitle="Paul’s Apostolic Authority"/>
+    <episode startId="SBLGNT.2Cor.11.1.w1" episodeId="08§15" startWord="Ὄφελον"
+        endId="SBLGNT.2Cor.11.15.w20" endWord="αὐτῶν" episodeWordLength="244"
+        episodeTitle="The True Apostle and the False Teachers"/>
+    <episode startId="SBLGNT.2Cor.11.16.w1" episodeId="08§16" startWord="Πάλιν"
+        endId="SBLGNT.2Cor.11.33.w14" endWord="αὐτοῦ" episodeWordLength="256"
+        episodeTitle="Paul’s Boast of His Apostolic Calling"/>
+    <episode startId="SBLGNT.2Cor.12.1.w1" episodeId="08§17" startWord="Καυχᾶσθαι"
+        endId="SBLGNT.2Cor.12.10.w20" endWord="εἰμι" episodeWordLength="192"
+        episodeTitle="Paul’s Boast of His Weakness"/>
+    <episode startId="SBLGNT.2Cor.12.11.w1" episodeId="08§18" startWord="Γέγονα"
+        endId="SBLGNT.2Cor.12.21.w28" endWord="ἔπραξαν" episodeWordLength="220"
+        episodeTitle="What Paul Expects of the Corinthians"/>
+    <episode startId="SBLGNT.2Cor.13.1.w1" episodeId="08§19" startWord="Τρίτον"
+        endId="SBLGNT.2Cor.13.13.w20" endWord="ὑμῶν" episodeWordLength="236"
+        episodeTitle="A Concluding Admonition and Greetings"/>
+    <episode startId="SBLGNT.Gal.1.1.w1" episodeId="09§01" startWord="Παῦλος"
+        endId="SBLGNT.Gal.1.5.w9" endWord="ἀμήν" episodeWordLength=" 75"
+        episodeTitle="Introductory Greeting and Doxology"/>
+    <episode startId="SBLGNT.Gal.1.6.w1" episodeId="09§02" startWord="Θαυμάζω"
+        endId="SBLGNT.Gal.1.10.w20" endWord="ἤμην" episodeWordLength=" 84"
+        episodeTitle="Paul’s Reason for Writing the Epistle"/>
+    <episode startId="SBLGNT.Gal.1.11.w1" episodeId="09§03" startWord="Γνωρίζω"
+        endId="SBLGNT.Gal.1.24.w6" endWord="θεόν" episodeWordLength="203"
+        episodeTitle="Paul Called by God"/>
+    <episode startId="SBLGNT.Gal.2.1.w1" episodeId="09§04" startWord="Ἔπειτα"
+        endId="SBLGNT.Gal.2.10.w11" endWord="ποιῆσαι" episodeWordLength="176"
+        episodeTitle="Further Confirmation of Paul’s Apostleship"/>
+    <episode startId="SBLGNT.Gal.2.11.w1" episodeId="09§05" startWord="Ὅτε"
+        endId="SBLGNT.Gal.2.21.w15" endWord="ἀπέθανεν" episodeWordLength="209"
+        episodeTitle="Paul’s Reproof of Peter, and the Lessons Drawn Therefrom"/>
+    <episode startId="SBLGNT.Gal.3.1.w1" episodeId="09§06" startWord="Ὦ" endId="SBLGNT.Gal.3.18.w17"
+        endWord="θεός" episodeWordLength="293"
+        episodeTitle="Salvation Is Not of Works, but by Faith"/>
+    <episode startId="SBLGNT.Gal.3.19.w1" episodeId="09§07" startWord="Τί"
+        endId="SBLGNT.Gal.3.29.w12" endWord="κληρονόμοι" episodeWordLength="162"
+        episodeTitle="Proofs for the Liberty of a Christian from the Nature and Meaning of the Law"/>
+    <episode startId="SBLGNT.Gal.4.1.w1" episodeId="09§08" startWord="Λέγω"
+        endId="SBLGNT.Gal.4.31.w9" endWord="ἐλευθέρας" episodeWordLength="444"
+        episodeTitle="The Sonship of the Believers Opposed to the Bondage of the Law"/>
+    <episode startId="SBLGNT.Gal.5.1.w1" episodeId="09§09" startWord="τῇ" endId="SBLGNT.Gal.5.26.w7"
+        endWord="φθονοῦντες" episodeWordLength="313"
+        episodeTitle="Christian Liberty an Incentive to Holiness of Life"/>
+    <episode startId="SBLGNT.Gal.6.1.w1" episodeId="09§10" startWord="Ἀδελφοί"
+        endId="SBLGNT.Gal.6.10.w17" endWord="πίστεως" episodeWordLength="146"
+        episodeTitle="An Admonition to Serve One’s Neighbor in Love"/>
+    <episode startId="SBLGNT.Gal.6.11.w1" episodeId="09§11" startWord="Ἴδετε"
+        endId="SBLGNT.Gal.6.18.w13" endWord="ἀμήν" episodeWordLength="121"
+        episodeTitle="Concluding Remarks"/>
+    <episode startId="SBLGNT.Eph.1.1.w1" episodeId="10§01" startWord="Παῦλος"
+        endId="SBLGNT.Eph.1.2.w12" endWord="Χριστοῦ" episodeWordLength=" 30"
+        episodeTitle="Salutation"/>
+    <episode startId="SBLGNT.Eph.1.3.w1" episodeId="10§02" startWord="Εὐλογητὸς"
+        endId="SBLGNT.Eph.1.14.w15" endWord="αὐτοῦ" episodeWordLength="202"
+        episodeTitle="The Blessings of Eternal Election"/>
+    <episode startId="SBLGNT.Eph.1.15.w1" episodeId="10§03" startWord="Διὰ"
+        endId="SBLGNT.Eph.1.23.w13" endWord="πληρουμένου" episodeWordLength="169"
+        episodeTitle="Prayer for Spiritual Enlightenment"/>
+    <episode startId="SBLGNT.Eph.2.1.w1" episodeId="10§04" startWord="Καὶ"
+        endId="SBLGNT.Eph.2.22.w11" endWord="πνεύματι" episodeWordLength="362"
+        episodeTitle="The Church as the Sum Total of Men Saved by Grace"/>
+    <episode startId="SBLGNT.Eph.3.1.w1" episodeId="10§05" startWord="Τούτου"
+        endId="SBLGNT.Eph.3.21.w19" endWord="ἀμήν" episodeWordLength="324"
+        episodeTitle="The Ministry of Paul for the Edification of the Church"/>
+    <episode startId="SBLGNT.Eph.4.1.w1" episodeId="10§06" startWord="Παρακαλῶ"
+        endId="SBLGNT.Eph.4.32.w15" endWord="ὑμῖν" episodeWordLength="481"
+        episodeTitle="Admonitions to Unity, Perfection in Knowledge, Holiness, and Peace"/>
+    <episode startId="SBLGNT.Eph.5.1.w1" episodeId="10§07" startWord="γίνεσθε"
+        endId="SBLGNT.Eph.5.21.w5" endWord="Χριστοῦ" episodeWordLength="266"
+        episodeTitle="A Warning, Principally against the Sins of Uncleanness"/>
+    <episode startId="SBLGNT.Eph.5.22.w1" episodeId="10§08" startWord="Αἱ"
+        endId="SBLGNT.Eph.5.33.w21" endWord="ἄνδρα" episodeWordLength="189"
+        episodeTitle="The Duties of Husbands and Wives and the Relation of Christ to the Church"/>
+    <episode startId="SBLGNT.Eph.6.1.w1" episodeId="10§09" startWord="Τὰ" endId="SBLGNT.Eph.6.9.w28"
+        endWord="αὐτῷ" episodeWordLength="138"
+        episodeTitle="The Duties of Children, of Parents, of Servants"/>
+    <episode startId="SBLGNT.Eph.6.10.w1" episodeId="10§10" startWord="Τοῦ"
+        endId="SBLGNT.Eph.6.20.w13" endWord="λαλῆσαι" episodeWordLength="189"
+        episodeTitle="The Christian’s Spiritual Armor and Its Use"/>
+    <episode startId="SBLGNT.Eph.6.21.w1" episodeId="10§11" startWord="Ἵνα"
+        endId="SBLGNT.Eph.6.24.w13" endWord="ἀφθαρσίᾳ" episodeWordLength=" 66"
+        episodeTitle="Concluding Remarks and Greeting"/>
+    <episode startId="SBLGNT.Phil.1.1.w1" episodeId="11§01" startWord="Παῦλος"
+        endId="SBLGNT.Phil.1.2.w12" endWord="Χριστοῦ" episodeWordLength=" 32"
+        episodeTitle="The Address and Salutation"/>
+    <episode startId="SBLGNT.Phil.1.3.w1" episodeId="11§02" startWord="Εὐχαριστῶ"
+        endId="SBLGNT.Phil.1.11.w12" endWord="θεοῦ" episodeWordLength="144"
+        episodeTitle="The Apostle’s Personal Feeling toward the Philippian Christians"/>
+    <episode startId="SBLGNT.Phil.1.12.w1" episodeId="11§03" startWord="Γινώσκειν"
+        endId="SBLGNT.Phil.1.26.w17" endWord="ὑμᾶς" episodeWordLength="243"
+        episodeTitle="Paul’s Present Circumstances, Experiences, and Expectations"/>
+    <episode startId="SBLGNT.Phil.1.27.w1" episodeId="11§04" startWord="Μόνον"
+        endId="SBLGNT.Phil.1.30.w13" endWord="ἐμοί" episodeWordLength=" 82"
+        episodeTitle="An Admonition to Constancy and True Unity"/>
+    <episode startId="SBLGNT.Phil.2.1.w1" episodeId="11§05" startWord="Εἴ"
+        endId="SBLGNT.Phil.2.4.w10" endWord="ἕκαστοι" episodeWordLength=" 58"
+        episodeTitle="The Need of Loving Humility"/>
+    <episode startId="SBLGNT.Phil.2.5.w1" episodeId="11§06" startWord="τοῦτο"
+        endId="SBLGNT.Phil.2.11.w12" endWord="πατρός" episodeWordLength=" 85"
+        episodeTitle="The Example of Christ’s Humility"/>
+    <episode startId="SBLGNT.Phil.2.12.w1" episodeId="11§07" startWord="Ὥστε"
+        endId="SBLGNT.Phil.2.18.w9" endWord="μοι" episodeWordLength="115"
+        episodeTitle="Work Out Your Salvation with Fear and Trembling"/>
+    <episode startId="SBLGNT.Phil.2.19.w1" episodeId="11§08" startWord="Ἐλπίζω"
+        endId="SBLGNT.Phil.2.30.w20" endWord="λειτουργίας" episodeWordLength="173"
+        episodeTitle="Recommendation of Timothy and Epaphroditus"/>
+    <episode startId="SBLGNT.Phil.3.1.w1" episodeId="11§09" startWord="Τὸ"
+        endId="SBLGNT.Phil.3.11.w9" endWord="νεκρῶν" episodeWordLength="176"
+        episodeTitle="The Dangers of Judaistic Teaching"/>
+    <episode startId="SBLGNT.Phil.3.12.w1" episodeId="11§10" startWord="Οὐχ"
+        endId="SBLGNT.Phil.3.21.w24" endWord="πάντα" episodeWordLength="161"
+        episodeTitle="Pursuing the Goal"/>
+    <episode startId="SBLGNT.Phil.4.1.w1" episodeId="11§11" startWord="ὥστε"
+        endId="SBLGNT.Phil.4.3.w28" endWord="ζωῆς" episodeWordLength=" 53"
+        episodeTitle="Firmness and Unanimity Enjoined"/>
+    <episode startId="SBLGNT.Phil.4.4.w1" episodeId="11§12" startWord="Χαίρετε"
+        endId="SBLGNT.Phil.4.9.w21" endWord="ὑμῶν" episodeWordLength="101"
+        episodeTitle="The Rejoicing of the Christians Especially in Their Fellowship with Christ"/>
+    <episode startId="SBLGNT.Phil.4.10.w1" episodeId="11§13" startWord="Ἐχάρην"
+        endId="SBLGNT.Phil.4.20.w14" endWord="ἀμήν" episodeWordLength="169"
+        episodeTitle="Acknowledgment of the Kindness of the Philippians"/>
+    <episode startId="SBLGNT.Phil.4.21.w1" episodeId="11§14" startWord="Ἀσπάσασθε"
+        endId="SBLGNT.Phil.4.23.w10" endWord="ὑμῶν" episodeWordLength=" 34"
+        episodeTitle="Greetings and Conclusion"/>
+    <episode startId="SBLGNT.Col.1.1.w1" episodeId="12§01" startWord="Παῦλος"
+        endId="SBLGNT.Col.1.2.w17" endWord="ἡμῶν" episodeWordLength=" 28"
+        episodeTitle="The Opening Salutation"/>
+    <episode startId="SBLGNT.Col.1.3.w1" episodeId="12§02" startWord="Εὐχαριστοῦμεν"
+        endId="SBLGNT.Col.1.14.w9" endWord="ἁμαρτιῶν" episodeWordLength="208"
+        episodeTitle="Paul’s Prayer of Thanksgiving and Intercession"/>
+    <episode startId="SBLGNT.Col.1.15.w1" episodeId="12§03" startWord="ὅς"
+        endId="SBLGNT.Col.1.29.w15" endWord="δυνάμει" episodeWordLength="302"
+        episodeTitle="The Work of the Exalted Christ through the Medium of the Ministry"/>
+    <episode startId="SBLGNT.Col.2.1.w1" episodeId="12§04" startWord="Θέλω"
+        endId="SBLGNT.Col.2.8.w27" endWord="Χριστόν" episodeWordLength="142"
+        episodeTitle="A Warning against Error"/>
+    <episode startId="SBLGNT.Col.2.9.w1" episodeId="12§05" startWord="ὅτι"
+        endId="SBLGNT.Col.2.23.w21" endWord="σαρκός" episodeWordLength="246"
+        episodeTitle="Christ’s Work for His Church, Resulting in Sanctification"/>
+    <episode startId="SBLGNT.Col.3.1.w1" episodeId="12§06" startWord="Εἰ" endId="SBLGNT.Col.3.4.w15"
+        endWord="δόξῃ" episodeWordLength=" 53"
+        episodeTitle="The Affections of the Christians Set on Things Above"/>
+    <episode startId="SBLGNT.Col.3.5.w1" episodeId="12§07" startWord="Νεκρώσατε"
+        endId="SBLGNT.Col.3.11.w20" endWord="Χριστός" episodeWordLength="102"
+        episodeTitle="Putting Off the Old Man and Putting On the New"/>
+    <episode startId="SBLGNT.Col.3.12.w1" episodeId="12§08" startWord="Ἐνδύσασθε"
+        endId="SBLGNT.Col.4.1.w18" endWord="οὐρανῷ" episodeWordLength="232"
+        episodeTitle="The Rule of God’s Peace and Its Effect on Various Stations in Life"/>
+    <episode startId="SBLGNT.Col.4.2.w1" episodeId="12§09" startWord="Τῇ" endId="SBLGNT.Col.4.6.w15"
+        endWord="ἀποκρίνεσθαι" episodeWordLength=" 61" episodeTitle="Concluding Admonitions"/>
+    <episode startId="SBLGNT.Col.4.7.w1" episodeId="12§10" startWord="Τὰ"
+        endId="SBLGNT.Col.4.18.w14" endWord="ὑμῶν" episodeWordLength="206"
+        episodeTitle="Personal Matters, Greetings, and Concluding Salutation"/>
+    <episode startId="SBLGNT.1Thess.1.1.w1" episodeId="13§01" startWord="Παῦλος"
+        endId="SBLGNT.1Thess.1.4.w8" endWord="ὑμῶν" episodeWordLength=" 68"
+        episodeTitle="Introduction and Thanksgiving"/>
+    <episode startId="SBLGNT.1Thess.1.5.w1" episodeId="13§02" startWord="ὅτι"
+        endId="SBLGNT.1Thess.1.10.w22" endWord="ἐρχομένης" episodeWordLength="142"
+        episodeTitle="A Recommendation of the Congregation’s Attitude"/>
+    <episode startId="SBLGNT.1Thess.2.1.w1" episodeId="13§03" startWord="Αὐτοὶ"
+        endId="SBLGNT.1Thess.2.12.w22" endWord="δόξαν" episodeWordLength="212"
+        episodeTitle="Paul’s Manner of Working in Thessalonica"/>
+    <episode startId="SBLGNT.1Thess.2.13.w1" episodeId="13§04" startWord="Καὶ"
+        endId="SBLGNT.1Thess.2.20.w9" endWord="χαρά" episodeWordLength="178"
+        episodeTitle="The Manner in Which the Thessalonians Received the Gospel"/>
+    <episode startId="SBLGNT.1Thess.3.1.w1" episodeId="13§05" startWord="Διὸ"
+        endId="SBLGNT.1Thess.3.13.w27" endWord="αὐτοῦ" episodeWordLength="247"
+        episodeTitle="Various Proofs of Paul’s Love for the Thessalonians"/>
+    <episode startId="SBLGNT.1Thess.4.1.w1" episodeId="13§06" startWord="Λοιπὸν"
+        endId="SBLGNT.1Thess.4.12.w10" endWord="ἔχητε" episodeWordLength="192"
+        episodeTitle="Warning Regarding Various Sins"/>
+    <episode startId="SBLGNT.1Thess.4.13.w1" episodeId="13§07" startWord="Οὐ"
+        endId="SBLGNT.1Thess.4.18.w7" endWord="τούτοις" episodeWordLength="117"
+        episodeTitle="Information about the Resurrection of the Dead"/>
+    <episode startId="SBLGNT.1Thess.5.1.w1" episodeId="13§08" startWord="Περὶ"
+        endId="SBLGNT.1Thess.5.11.w11" endWord="ποιεῖτε" episodeWordLength="152"
+        episodeTitle="Christian Watchfulness with Reference to the Last Day"/>
+    <episode startId="SBLGNT.1Thess.5.12.w1" episodeId="13§09" startWord="Ἐρωτῶμεν"
+        endId="SBLGNT.1Thess.5.28.w9" endWord="ὑμῶν" episodeWordLength="165"
+        episodeTitle="Concluding Admonitions and Greeting"/>
+    <episode startId="SBLGNT.2Thess.1.1.w1" episodeId="14§01" startWord="Παῦλος"
+        endId="SBLGNT.2Thess.1.2.w11" endWord="Χριστοῦ" episodeWordLength=" 27"
+        episodeTitle="Introductory Salutation"/>
+    <episode startId="SBLGNT.2Thess.1.3.w1" episodeId="14§02" startWord="Εὐχαριστεῖν"
+        endId="SBLGNT.2Thess.1.12.w24" endWord="Χριστοῦ" episodeWordLength="207"
+        episodeTitle="Paul’s Prayer of Thanksgiving and Intercession"/>
+    <episode startId="SBLGNT.2Thess.2.1.w1" episodeId="14§03" startWord="Ἐρωτῶμεν"
+        endId="SBLGNT.2Thess.2.17.w12" endWord="ἀγαθῷ" episodeWordLength="312"
+        episodeTitle="The Man of Sin and the Mystery of Iniquity"/>
+    <episode startId="SBLGNT.2Thess.3.1.w1" episodeId="14§04" startWord="Τὸ"
+        endId="SBLGNT.2Thess.3.18.w10" endWord="ὑμῶν" episodeWordLength="274"
+        episodeTitle="Concluding Exhortations and Greeting"/>
+    <episode startId="SBLGNT.1Tim.1.1.w1" episodeId="15§01" startWord="Παῦλος"
+        endId="SBLGNT.1Tim.1.2.w17" endWord="ἡμῶν" episodeWordLength=" 32"
+        episodeTitle="Address and Greeting"/>
+    <episode startId="SBLGNT.1Tim.1.3.w1" episodeId="15§02" startWord="Καθὼς"
+        endId="SBLGNT.1Tim.1.7.w12" endWord="διαβεβαιοῦνται" episodeWordLength=" 64"
+        episodeTitle="Warning Against False Teachers"/>
+    <episode startId="SBLGNT.1Tim.1.8.w1" episodeId="15§03" startWord="Οἴδαμεν"
+        endId="SBLGNT.1Tim.1.11.w11" endWord="ἐγώ" episodeWordLength=" 56"
+        episodeTitle="The Real Purpose of the Law"/>
+    <episode startId="SBLGNT.1Tim.1.12.w1" episodeId="15§04" startWord="Χάριν"
+        endId="SBLGNT.1Tim.1.17.w18" endWord="ἀμήν" episodeWordLength="109"
+        episodeTitle="Paul’s Praise for the Grace which He has Experienced"/>
+    <episode startId="SBLGNT.1Tim.1.18.w1" episodeId="15§05" startWord="Ταύτην"
+        endId="SBLGNT.1Tim.1.20.w13" endWord="βλασφημεῖν" episodeWordLength=" 45"
+        episodeTitle="A Warning against Apostasy"/>
+    <episode startId="SBLGNT.1Tim.2.1.w1" episodeId="15§06" startWord="Παρακαλῶ"
+        endId="SBLGNT.1Tim.2.8.w15" endWord="διαλογισμοῦ" episodeWordLength="104"
+        episodeTitle="An Admonition to Pray for All Men on the Basis of Christ’s Atoning Death"/>
+    <episode startId="SBLGNT.1Tim.2.9.w1" episodeId="15§07" startWord="ὡσαύτως"
+        endId="SBLGNT.1Tim.2.15.w15" endWord="σωφροσύνης" episodeWordLength=" 82"
+        episodeTitle="The Station and Calling of Christian Women"/>
+    <episode startId="SBLGNT.1Tim.3.1.w1" episodeId="15§08" startWord="Πιστὸς"
+        endId="SBLGNT.1Tim.3.7.w18" endWord="διαβόλου" episodeWordLength=" 85"
+        episodeTitle="The Office of a Bishop, or Overseer"/>
+    <episode startId="SBLGNT.1Tim.3.8.w1" episodeId="15§09" startWord="Διακόνους"
+        endId="SBLGNT.1Tim.3.13.w17" endWord="Ἰησοῦ" episodeWordLength=" 66"
+        episodeTitle="The Office of Deacons"/>
+    <episode startId="SBLGNT.1Tim.3.14.w1" episodeId="15§10" startWord="Ταῦτά"
+        endId="SBLGNT.1Tim.3.16.w26" endWord="δόξῃ" episodeWordLength=" 56"
+        episodeTitle="The Purpose of Paul’s Letter and a Doxology"/>
+    <episode startId="SBLGNT.1Tim.4.1.w1" episodeId="15§11" startWord="Τὸ"
+        endId="SBLGNT.1Tim.4.5.w7" endWord="ἐντεύξεως" episodeWordLength=" 62"
+        episodeTitle="The False Doctrines of the Last Days and Their Refutation"/>
+    <episode startId="SBLGNT.1Tim.4.6.w1" episodeId="15§12" startWord="Ταῦτα"
+        endId="SBLGNT.1Tim.4.16.w17" endWord="σου" episodeWordLength="159"
+        episodeTitle="The Personal Conduct of Timothy"/>
+    <episode startId="SBLGNT.1Tim.5.1.w1" episodeId="15§13" startWord="Πρεσβυτέρῳ"
+        endId="SBLGNT.1Tim.5.8.w17" endWord="χείρων" episodeWordLength=" 97"
+        episodeTitle="The Pastoral Care of the Aged, the Young, the Widows"/>
+    <episode startId="SBLGNT.1Tim.5.9.w1" episodeId="15§14" startWord="Χήρα"
+        endId="SBLGNT.1Tim.5.16.w17" endWord="ἐπαρκέσῃ" episodeWordLength="106"
+        episodeTitle="The Care of Widows on the Part of the Congregation"/>
+    <episode startId="SBLGNT.1Tim.5.17.w1" episodeId="15§15" startWord="Οἱ"
+        endId="SBLGNT.1Tim.6.2.w26" endWord="παρακάλει" episodeWordLength="173"
+        episodeTitle="Rules of Conduct with Regard to the Elders of the Congregation"/>
+    <episode startId="SBLGNT.1Tim.6.3.w1" episodeId="15§16" startWord="εἴ"
+        endId="SBLGNT.1Tim.6.5.w14" endWord="εὐσέβειαν" episodeWordLength=" 50"
+        episodeTitle="A Description Characterizing the Errorists"/>
+    <episode startId="SBLGNT.1Tim.6.6.w1" episodeId="15§17" startWord="ἔστιν"
+        endId="SBLGNT.1Tim.6.10.w20" endWord="πολλαῖς" episodeWordLength=" 69"
+        episodeTitle="The Sin of Avarice and Its Results"/>
+    <episode startId="SBLGNT.1Tim.6.11.w1" episodeId="15§18" startWord="Σὺ"
+        endId="SBLGNT.1Tim.6.16.w20" endWord="ἀμήν" episodeWordLength="107"
+        episodeTitle="The Conduct of the True Christian and Its Reward"/>
+    <episode startId="SBLGNT.1Tim.6.17.w1" episodeId="15§19" startWord="Τοῖς"
+        endId="SBLGNT.1Tim.6.21.w11" endWord="ὑμῶν" episodeWordLength=" 69"
+        episodeTitle="Final Admonitions and Conclusion"/>
+    <episode startId="SBLGNT.2Tim.1.1.w1" episodeId="16§01" startWord="Παῦλος"
+        endId="SBLGNT.2Tim.1.2.w15" endWord="ἡμῶν" episodeWordLength=" 29"
+        episodeTitle="Address and Salutation"/>
+    <episode startId="SBLGNT.2Tim.1.3.w1" episodeId="16§02" startWord="Χάριν"
+        endId="SBLGNT.2Tim.1.4.w10" endWord="πληρωθῶ" episodeWordLength=" 35"
+        episodeTitle="Paul Reminds Timothy of His Early Training and Its Obligations"/>
+    <episode startId="SBLGNT.2Tim.1.5.w1" episodeId="16§03" startWord="ὑπόμνησιν"
+        endId="SBLGNT.2Tim.1.14.w11" endWord="ἡμῖν" episodeWordLength="192"
+        episodeTitle="An Admonition to Steadfastness"/>
+    <episode startId="SBLGNT.2Tim.1.15.w1" episodeId="16§04" startWord="Οἶδας"
+        endId="SBLGNT.2Tim.1.18.w20" endWord="γινώσκεις" episodeWordLength=" 61"
+        episodeTitle="Paul’s Sorrowful and Cheerful Experiences"/>
+    <episode startId="SBLGNT.2Tim.2.1.w1" episodeId="16§05" startWord="Σὺ"
+        endId="SBLGNT.2Tim.2.7.w11" endWord="πᾶσιν" episodeWordLength=" 77"
+        episodeTitle="Admonition to Faithfulness in the Ministry"/>
+    <episode startId="SBLGNT.2Tim.2.8.w1" episodeId="16§06" startWord="Μνημόνευε"
+        endId="SBLGNT.2Tim.2.13.w9" endWord="δύναται" episodeWordLength=" 72"
+        episodeTitle="An Admonition to Faithfulness in Faith and Christian Conduct"/>
+    <episode startId="SBLGNT.2Tim.2.14.w1" episodeId="16§07" startWord="Ταῦτα"
+        endId="SBLGNT.2Tim.2.18.w14" endWord="πίστιν" episodeWordLength=" 65"
+        episodeTitle="The Proper Dividing of the Word of God"/>
+    <episode startId="SBLGNT.2Tim.2.19.w1" episodeId="16§08" startWord="ὁ"
+        endId="SBLGNT.2Tim.2.21.w20" endWord="ἡτοιμασμένον" episodeWordLength=" 71"
+        episodeTitle="Of Clean and Unclean Vessels"/>
+    <episode startId="SBLGNT.2Tim.2.22.w1" episodeId="16§09" startWord="τὰς"
+        endId="SBLGNT.2Tim.2.26.w14" endWord="θέλημα" episodeWordLength=" 71"
+        episodeTitle="The Minister’s Personal Conduct"/>
+    <episode startId="SBLGNT.2Tim.3.1.w1" episodeId="16§10" startWord="Τοῦτο"
+        endId="SBLGNT.2Tim.3.9.w17" endWord="ἐγένετο" episodeWordLength="112"
+        episodeTitle="The False Teachers and False Brethren of the Last Days"/>
+    <episode startId="SBLGNT.2Tim.3.10.w1" episodeId="16§11" startWord="Σὺ"
+        endId="SBLGNT.2Tim.3.13.w12" endWord="πλανώμενοι" episodeWordLength=" 64"
+        episodeTitle="The Special Lessons of Paul’s Afflictions"/>
+    <episode startId="SBLGNT.2Tim.3.14.w1" episodeId="16§12" startWord="σὺ"
+        endId="SBLGNT.2Tim.3.17.w12" endWord="ἐξηρτισμένος" episodeWordLength=" 59"
+        episodeTitle="The Purpose of Holy Scriptures"/>
+    <episode startId="SBLGNT.2Tim.4.1.w1" episodeId="16§13" startWord="Διαμαρτύρομαι"
+        endId="SBLGNT.2Tim.4.5.w13" endWord="πληροφόρησον" episodeWordLength=" 81"
+        episodeTitle="Faithfulness in Office"/>
+    <episode startId="SBLGNT.2Tim.4.6.w1" episodeId="16§14" startWord="Ἐγὼ"
+        endId="SBLGNT.2Tim.4.8.w31" endWord="αὐτοῦ" episodeWordLength=" 52"
+        episodeTitle="Paul’s Fight and Victory"/>
+    <episode startId="SBLGNT.2Tim.4.9.w1" episodeId="16§15" startWord="Σπούδασον"
+        endId="SBLGNT.2Tim.4.18.w25" endWord="ἀμήν" episodeWordLength="149"
+        episodeTitle="A Report Concerning Various Acquaintances and the First Hearing"/>
+    <episode startId="SBLGNT.2Tim.4.19.w1" episodeId="16§16" startWord="Ἄσπασαι"
+        endId="SBLGNT.2Tim.4.22.w10" endWord="ὑμῶν" episodeWordLength=" 45"
+        episodeTitle="Concluding Remarks and Greeting"/>
+    <episode startId="SBLGNT.Titus.1.1.w1" episodeId="17§01" startWord="Παῦλος"
+        endId="SBLGNT.Titus.1.4.w18" endWord="ἡμῶν" episodeWordLength=" 65"
+        episodeTitle="Address and Opening Salutation"/>
+    <episode startId="SBLGNT.Titus.1.5.w1" episodeId="17§02" startWord="Τούτου"
+        endId="SBLGNT.Titus.1.9.w21" endWord="ἐλέγχειν" episodeWordLength=" 82"
+        episodeTitle="The Qualifications of Christian Pastors"/>
+    <episode startId="SBLGNT.Titus.1.10.w1" episodeId="17§03" startWord="Εἰσὶν"
+        endId="SBLGNT.Titus.1.16.w17" endWord="ἀδόκιμοι" episodeWordLength="104"
+        episodeTitle="The False Teachers Characterized and the Question of How to Deal with Them"/>
+    <episode startId="SBLGNT.Titus.2.1.w1" episodeId="17§04" startWord="Σὺ"
+        endId="SBLGNT.Titus.2.10.w18" endWord="πᾶσιν" episodeWordLength="113"
+        episodeTitle="Admonitions concerning Various Stations"/>
+    <episode startId="SBLGNT.Titus.2.11.w1" episodeId="17§05" startWord="Ἐπεφάνη"
+        endId="SBLGNT.Titus.2.15.w12" endWord="περιφρονείτω" episodeWordLength=" 76"
+        episodeTitle="The Grace of Salvation and Its Sanctifying Power"/>
+    <episode startId="SBLGNT.Titus.3.1.w1" episodeId="17§06" startWord="Ὑπομίμνῃσκε"
+        endId="SBLGNT.Titus.3.3.w21" endWord="ἀλλήλους" episodeWordLength=" 44"
+        episodeTitle="An Admonition to Obedience and Meekness"/>
+    <episode startId="SBLGNT.Titus.3.4.w1" episodeId="17§07" startWord="ὅτε"
+        endId="SBLGNT.Titus.3.8.w24" endWord="ἀνθρώποις" episodeWordLength=" 81"
+        episodeTitle="The Washing of Regeneration and Its Wonderful Power"/>
+    <episode startId="SBLGNT.Titus.3.9.w1" episodeId="17§08" startWord="μωρὰς"
+        endId="SBLGNT.Titus.3.11.w9" endWord="αὐτοκατάκριτος" episodeWordLength=" 33"
+        episodeTitle="The Conduct of Titus toward False Teachers and Heretics"/>
+    <episode startId="SBLGNT.Titus.3.12.w1" episodeId="17§09" startWord="Ὅταν"
+        endId="SBLGNT.Titus.3.15.w17" endWord="ὑμῶν" episodeWordLength=" 61"
+        episodeTitle="Final Directions and Greetings"/>
+    <episode startId="SBLGNT.Phlm.1.1.w1" episodeId="18§01" startWord="Παῦλος"
+        endId="SBLGNT.Phlm.1.3.w12" endWord="Χριστοῦ" episodeWordLength=" 41"
+        episodeTitle="Address and Salutation"/>
+    <episode startId="SBLGNT.Phlm.1.4.w1" episodeId="18§02" startWord="Εὐχαριστῶ"
+        endId="SBLGNT.Phlm.1.7.w19" endWord="ἀδελφέ" episodeWordLength=" 66"
+        episodeTitle="Paul’s Thankfulness and Sympathy on Account of Philemon’s Christian State"/>
+    <episode startId="SBLGNT.Phlm.1.8.w1" episodeId="18§03" startWord="Διό"
+        endId="SBLGNT.Phlm.1.14.w20" endWord="ἑκούσιον" episodeWordLength=" 93"
+        episodeTitle="Paul’s Intercession for Onesimus"/>
+    <episode startId="SBLGNT.Phlm.1.15.w1" episodeId="18§04" startWord="τάχα"
+        endId="SBLGNT.Phlm.1.20.w13" endWord="Χριστῷ" episodeWordLength=" 80"
+        episodeTitle="Another Point Urged by the Apostle"/>
+    <episode startId="SBLGNT.Phlm.1.21.w1" episodeId="18§05" startWord="πεποιθὼς"
+        endId="SBLGNT.Phlm.1.25.w10" endWord="ὑμῶν" episodeWordLength=" 54"
+        episodeTitle="Concluding Remarks and Greeting"/>
+    <episode startId="SBLGNT.Heb.1.1.w1" episodeId="19§01" startWord="Πολυμερῶς"
+        endId="SBLGNT.Heb.1.14.w13" endWord="σωτηρίαν" episodeWordLength="257"
+        episodeTitle="The Superiority of Christ over the Angels"/>
+    <episode startId="SBLGNT.Heb.2.1.w1" episodeId="19§02" startWord="Διὰ"
+        endId="SBLGNT.Heb.2.13.w19" endWord="θεός" episodeWordLength="227"
+        episodeTitle="The Need of Cheerful Obedience to Christ"/>
+    <episode startId="SBLGNT.Heb.2.14.w1" episodeId="19§03" startWord="Ἐπεὶ"
+        endId="SBLGNT.Heb.2.18.w10" endWord="βοηθῆσαι" episodeWordLength=" 85"
+        episodeTitle="The Deliverance Effected by Christ"/>
+    <episode startId="SBLGNT.Heb.3.1.w1" episodeId="19§04" startWord="Ὅθεν"
+        endId="SBLGNT.Heb.3.19.w8" endWord="ἀπιστίαν" episodeWordLength="282"
+        episodeTitle="The Superiority of Christ over Moses"/>
+    <episode startId="SBLGNT.Heb.4.1.w1" episodeId="19§05" startWord="Φοβηθῶμεν"
+        endId="SBLGNT.Heb.4.10.w20" endWord="θεός" episodeWordLength="172"
+        episodeTitle="A Further Warning against Unbelief"/>
+    <episode startId="SBLGNT.Heb.4.11.w1" episodeId="19§06" startWord="σπουδάσωμεν"
+        endId="SBLGNT.Heb.4.16.w17" endWord="βοήθειαν" episodeWordLength="118"
+        episodeTitle="Boldness in Faith in Our High Priest"/>
+    <episode startId="SBLGNT.Heb.5.1.w1" episodeId="19§07" startWord="Πᾶς"
+        endId="SBLGNT.Heb.5.10.w9" endWord="Μελχισέδεκ" episodeWordLength="155"
+        episodeTitle="The Authority of Christ, Our High Priest"/>
+    <episode startId="SBLGNT.Heb.5.11.w1" episodeId="19§08" startWord="Περὶ"
+        endId="SBLGNT.Heb.5.14.w20" endWord="κακοῦ" episodeWordLength=" 76"
+        episodeTitle="A Reproof of Spiritual Ignorance"/>
+    <episode startId="SBLGNT.Heb.6.1.w1" episodeId="19§09" startWord="Διὸ"
+        endId="SBLGNT.Heb.6.20.w15" endWord="αἰῶνα" episodeWordLength="300"
+        episodeTitle="An Exhortation to Progress and Steadfastness in the Faith"/>
+    <episode startId="SBLGNT.Heb.7.1.w1" episodeId="19§10" startWord="Οὗτος"
+        endId="SBLGNT.Heb.7.28.w22" endWord="τετελειωμένον" episodeWordLength="454"
+        episodeTitle="A Comparison between Christ and Melchizedek"/>
+    <episode startId="SBLGNT.Heb.8.1.w1" episodeId="19§11" startWord="Κεφάλαιον"
+        endId="SBLGNT.Heb.8.13.w14" endWord="ἀφανισμοῦ" episodeWordLength="274"
+        episodeTitle="Christ’s Eternal Priesthood has Superseded the Temporary Priesthood of Aaron"/>
+    <episode startId="SBLGNT.Heb.9.1.w1" episodeId="19§12" startWord="Εἶχε"
+        endId="SBLGNT.Heb.9.28.w21" endWord="σωτηρίαν" episodeWordLength="507"
+        episodeTitle="The Old Testament System Inferior to the Perfection of Christ’s Sacrifice"/>
+    <episode startId="SBLGNT.Heb.10.1.w1" episodeId="19§13" startWord="Σκιὰν"
+        endId="SBLGNT.Heb.10.18.w8" endWord="ἁμαρτίας" episodeWordLength="259"
+        episodeTitle="The Superiority of the One Perfect Offering of Christ"/>
+    <episode startId="SBLGNT.Heb.10.19.w1" episodeId="19§14" startWord="Ἔχοντες"
+        endId="SBLGNT.Heb.10.39.w12" endWord="ψυχῆς" episodeWordLength="291"
+        episodeTitle="An Admonition to Stand Firm in the Faith, with Patience and Thanksgiving"/>
+    <episode startId="SBLGNT.Heb.11.1.w1" episodeId="19§15" startWord="Ἔστιν"
+        endId="SBLGNT.Heb.11.40.w12" endWord="τελειωθῶσιν" episodeWordLength="631"
+        episodeTitle="A Wonderful Epic on the Power of Faith"/>
+    <episode startId="SBLGNT.Heb.12.1.w1" episodeId="19§16" startWord="Τοιγαροῦν"
+        endId="SBLGNT.Heb.12.13.w15" endWord="μᾶλλον" episodeWordLength="228"
+        episodeTitle="An Appeal to Heed the Old Testament Examples, Aided by God’s Chastisement"/>
+    <episode startId="SBLGNT.Heb.12.14.w1" episodeId="19§17" startWord="Εἰρήνην"
+        endId="SBLGNT.Heb.12.29.w7" endWord="καταναλίσκον" episodeWordLength="244"
+        episodeTitle="A Warning against Apostasy on the Basis of the Excellency of the New Covenant"/>
+    <episode startId="SBLGNT.Heb.13.1.w1" episodeId="19§18" startWord="Ἡ"
+        endId="SBLGNT.Heb.13.25.w5" endWord="ὑμῶν" episodeWordLength="375"
+        episodeTitle="Final Admonitions and Conclusion"/>
+    <episode startId="SBLGNT.Jas.1.1.w1" episodeId="20§01" startWord="Ἰάκωβος"
+        endId="SBLGNT.Jas.1.15.w12" endWord="θάνατον" episodeWordLength="212"
+        episodeTitle="Various Temptations and Their Endurance"/>
+    <episode startId="SBLGNT.Jas.1.16.w1" episodeId="20§02" startWord="μὴ"
+        endId="SBLGNT.Jas.1.27.w25" endWord="κόσμου" episodeWordLength="194"
+        episodeTitle="God’s Fatherhood and the Obligations of Sonship"/>
+    <episode startId="SBLGNT.Jas.2.1.w1" episodeId="20§03" startWord="Ἀδελφοί"
+        endId="SBLGNT.Jas.2.26.w16" endWord="ἐστιν" episodeWordLength="414"
+        episodeTitle="Dead Faith Compared with Living Faith"/>
+    <episode startId="SBLGNT.Jas.3.1.w1" episodeId="20§04" startWord="Μὴ" endId="SBLGNT.Jas.3.18.w9"
+        endWord="εἰρήνην" episodeWordLength="295"
+        episodeTitle="Caution against False Activity in Teaching and the Use of the Tongue"/>
+    <episode startId="SBLGNT.Jas.4.1.w1" episodeId="20§05" startWord="Πόθεν"
+        endId="SBLGNT.Jas.4.17.w10" endWord="ἐστιν" episodeWordLength="276"
+        episodeTitle="Caution against Worldly-Mindedness and Its Consequences"/>
+    <episode startId="SBLGNT.Jas.5.1.w1" episodeId="20§06" startWord="Ἄγε"
+        endId="SBLGNT.Jas.5.20.w18" endWord="ἁμαρτιῶν" episodeWordLength="348"
+        episodeTitle="Various Admonitions in View of the Nearness of the Judgment"/>
+    <episode startId="SBLGNT.1Pet.1.1.w1" episodeId="21§01" startWord="Πέτρος"
+        endId="SBLGNT.1Pet.1.2.w19" endWord="πληθυνθείη" episodeWordLength=" 32"
+        episodeTitle="Address and Salutation"/>
+    <episode startId="SBLGNT.1Pet.1.3.w1" episodeId="21§02" startWord="Εὐλογητὸς"
+        endId="SBLGNT.1Pet.1.12.w27" endWord="παρακύψαι" episodeWordLength="176"
+        episodeTitle="A Praise of God for His Manifold Blessings"/>
+    <episode startId="SBLGNT.1Pet.1.13.w1" episodeId="21§03" startWord="Διὸ"
+        endId="SBLGNT.1Pet.1.25.w17" endWord="ὑμᾶς" episodeWordLength="197"
+        episodeTitle="An Admonition to Lead a Godly Life"/>
+    <episode startId="SBLGNT.1Pet.2.1.w1" episodeId="21§04" startWord="Ἀποθέμενοι"
+        endId="SBLGNT.1Pet.2.10.w14" endWord="ἐλεηθέντες" episodeWordLength="159"
+        episodeTitle="Further Practical Admonitions"/>
+    <episode startId="SBLGNT.1Pet.2.11.w1" episodeId="21§05" startWord="Ἀγαπητοί"
+        endId="SBLGNT.1Pet.2.25.w16" endWord="ὑμῶν" episodeWordLength="233"
+        episodeTitle="Specific Admonitions Concerning the Station of the Christians"/>
+    <episode startId="SBLGNT.1Pet.3.1.w1" episodeId="21§06" startWord="Ὁμοίως"
+        endId="SBLGNT.1Pet.3.7.w25" endWord="ὑμῶν" episodeWordLength="121"
+        episodeTitle="Exhortations to the Married"/>
+    <episode startId="SBLGNT.1Pet.3.8.w1" episodeId="21§07" startWord="Τὸ"
+        endId="SBLGNT.1Pet.3.22.w15" endWord="δυνάμεων" episodeWordLength="247"
+        episodeTitle="Exhortations to Christians in General"/>
+    <episode startId="SBLGNT.1Pet.4.1.w1" episodeId="21§08" startWord="Χριστοῦ"
+        endId="SBLGNT.1Pet.4.19.w17" endWord="ἀγαθοποιΐᾳ" episodeWordLength="305"
+        episodeTitle="Admonitions in View of the Second Coming of Christ"/>
+    <episode startId="SBLGNT.1Pet.5.1.w1" episodeId="21§09" startWord="Πρεσβυτέρους"
+        endId="SBLGNT.1Pet.5.14.w11" endWord="Χριστῷ" episodeWordLength="208"
+        episodeTitle="Final Admonitions and Concluding Greetings"/>
+    <episode startId="SBLGNT.2Pet.1.1.w1" episodeId="22§01" startWord="Συμεὼν"
+        endId="SBLGNT.2Pet.1.2.w14" endWord="ἡμῶν" episodeWordLength=" 35"
+        episodeTitle="Address and Salutation"/>
+    <episode startId="SBLGNT.2Pet.1.3.w1" episodeId="22§02" startWord="Ὡς"
+        endId="SBLGNT.2Pet.1.11.w18" endWord="Χριστοῦ" episodeWordLength="168"
+        episodeTitle="The Obligations Imposed upon the Believers by the Rich Promises of God"/>
+    <episode startId="SBLGNT.2Pet.1.12.w1" episodeId="22§03" startWord="Διὸ"
+        endId="SBLGNT.2Pet.1.21.w16" endWord="ἄνθρωποι" episodeWordLength="181"
+        episodeTitle="The Reliability of the Gospel and of the Prophecy"/>
+    <episode startId="SBLGNT.2Pet.2.1.w1" episodeId="22§04" startWord="Ἐγένοντο"
+        endId="SBLGNT.2Pet.2.22.w18" endWord="βορβόρου" episodeWordLength="372"
+        episodeTitle="A Warning against the False Teachers of All Times"/>
+    <episode startId="SBLGNT.2Pet.3.1.w1" episodeId="22§05" startWord="Ταύτην"
+        endId="SBLGNT.2Pet.3.18.w23" endWord="ἀμήν" episodeWordLength="342"
+        episodeTitle="The Certain Coming of Christ and Its Lessons"/>
+    <episode startId="SBLGNT.1John.1.1.w1" episodeId="23§01" startWord="Ὃ"
+        endId="SBLGNT.1John.1.10.w16" endWord="ἡμῖν" episodeWordLength="207"
+        episodeTitle="Christ’s Person and Office"/>
+    <episode startId="SBLGNT.1John.2.1.w1" episodeId="23§02" startWord="Τεκνία"
+        endId="SBLGNT.1John.2.29.w15" endWord="γεγέννηται" episodeWordLength="585"
+        episodeTitle="Christ’s Propitiation and Its Influence upon the Life of the Christians"/>
+    <episode startId="SBLGNT.1John.3.1.w1" episodeId="23§03" startWord="ἴδετε"
+        endId="SBLGNT.1John.3.24.w27" endWord="ἔδωκεν" episodeWordLength="467"
+        episodeTitle="The Glory, Privileges, and Obligations of Sonship"/>
+    <episode startId="SBLGNT.1John.4.1.w1" episodeId="23§04" startWord="Ἀγαπητοί"
+        endId="SBLGNT.1John.4.21.w17" endWord="αὐτοῦ" episodeWordLength="449"
+        episodeTitle="The Attitude of Christians toward False Teachers and toward One Another"/>
+    <episode startId="SBLGNT.1John.5.1.w1" episodeId="23§05" startWord="Πᾶς"
+        endId="SBLGNT.1John.5.12.w18" endWord="ἔχει" episodeWordLength="254"
+        episodeTitle="The Power, Testimony, and Substance of Faith"/>
+    <episode startId="SBLGNT.1John.5.13.w1" episodeId="23§06" startWord="Ταῦτα"
+        endId="SBLGNT.1John.5.21.w6" endWord="εἰδώλων" episodeWordLength="175"
+        episodeTitle="A Concluding Summary"/>
+    <episode startId="SBLGNT.2John.1.1.w1" episodeId="24§01" startWord="Ὁ"
+        endId="SBLGNT.2John.1.3.w21" endWord="ἀγάπῃ" episodeWordLength=" 59"
+        episodeTitle="Address and Salutation"/>
+    <episode startId="SBLGNT.2John.1.4.w1" episodeId="24§02" startWord="Ἐχάρην"
+        endId="SBLGNT.2John.1.6.w23" endWord="περιπατῆτε" episodeWordLength=" 59"
+        episodeTitle="Exhortation to Walk in Truth and Love"/>
+    <episode startId="SBLGNT.2John.1.7.w1" episodeId="24§03" startWord="ὅτι"
+        endId="SBLGNT.2John.1.11.w11" endWord="πονηροῖς" episodeWordLength=" 92"
+        episodeTitle="Warning against False Teachers"/>
+    <episode startId="SBLGNT.2John.1.12.w1" episodeId="24§04" startWord="Πολλὰ"
+        endId="SBLGNT.2John.1.13.w9" endWord="ἐκλεκτῆς" episodeWordLength=" 35"
+        episodeTitle="Conclusion"/>
+    <episode startId="SBLGNT.3John.1.1.w1" episodeId="25§01" startWord="Ὁ"
+        endId="SBLGNT.3John.1.4.w14" endWord="περιπατοῦντα" episodeWordLength=" 52"
+        episodeTitle="Address and Commendation"/>
+    <episode startId="SBLGNT.3John.1.5.w1" episodeId="25§02" startWord="Ἀγαπητέ"
+        endId="SBLGNT.3John.1.8.w11" endWord="ἀληθείᾳ" episodeWordLength=" 47"
+        episodeTitle="The Hospitality of Gaius"/>
+    <episode startId="SBLGNT.3John.1.9.w1" episodeId="25§03" startWord="Ἔγραψά"
+        endId="SBLGNT.3John.1.11.w20" endWord="θεόν" episodeWordLength=" 65"
+        episodeTitle="The Insolence of Diotrephes"/>
+    <episode startId="SBLGNT.3John.1.12.w1" episodeId="25§04" startWord="Δημητρίῳ"
+        endId="SBLGNT.3John.1.15.w11" endWord="ὄνομα" episodeWordLength=" 55"
+        episodeTitle="Commendation of Demetrius and Conclusion"/>
+    <episode startId="SBLGNT.Jude.1.1.w1" episodeId="26§01" startWord="Ἰούδας"
+        endId="SBLGNT.Jude.1.2.w7" endWord="πληθυνθείη" episodeWordLength=" 24"
+        episodeTitle="Introductory Salutation"/>
+    <episode startId="SBLGNT.Jude.1.3.w1" episodeId="26§02" startWord="Ἀγαπητοί"
+        endId="SBLGNT.Jude.1.4.w30" endWord="ἀρνούμενοι" episodeWordLength=" 53"
+        episodeTitle="An Exhortation to Constancy in Faith"/>
+    <episode startId="SBLGNT.Jude.1.5.w1" episodeId="26§03" startWord="Ὑπομνῆσαι"
+        endId="SBLGNT.Jude.1.7.w25" endWord="ὑπέχουσαι" episodeWordLength=" 68"
+        episodeTitle="Examples of the Judgment of God"/>
+    <episode startId="SBLGNT.Jude.1.8.w1" episodeId="26§04" startWord="Ὁμοίως"
+        endId="SBLGNT.Jude.1.13.w17" endWord="τετήρηται" episodeWordLength="117"
+        episodeTitle="The Character of the Seducing Teachers"/>
+    <episode startId="SBLGNT.Jude.1.14.w1" episodeId="26§05" startWord="Προεφήτευσεν"
+        endId="SBLGNT.Jude.1.16.w19" endWord="χάριν" episodeWordLength=" 63"
+        episodeTitle="God’s Coming Judgment Upon the False Teachers"/>
+    <episode startId="SBLGNT.Jude.1.17.w1" episodeId="26§06" startWord="Ὑμεῖς"
+        endId="SBLGNT.Jude.1.23.w19" endWord="χιτῶνα" episodeWordLength=" 92"
+        episodeTitle="An Admonition to Holy Steadfastness"/>
+    <episode startId="SBLGNT.Jude.1.24.w1" episodeId="26§07" startWord="Τῷ"
+        endId="SBLGNT.Jude.1.25.w27" endWord="ἀμήν" episodeWordLength=" 42"
+        episodeTitle="Concluding Doxology"/>
+    <episode startId="SBLGNT.Rev.1.1.w1" episodeId="27§01" startWord="Ἀποκάλυψις"
+        endId="SBLGNT.Rev.1.20.w33" endWord="εἰσίν" episodeWordLength="469"
+        episodeTitle="The Mystery of the Seven Stars and the Seven Candlesticks"/>
+    <episode startId="SBLGNT.Rev.2.1.w1" episodeId="27§02" startWord="Τῷ"
+        endId="SBLGNT.Rev.2.29.w10" endWord="ἐκκλησίαις" episodeWordLength="621"
+        episodeTitle="Letters to Congregations at Ephesus, Smyrna, Pergamum, and Thyatira"/>
+    <episode startId="SBLGNT.Rev.3.1.w1" episodeId="27§03" startWord="Καὶ"
+        endId="SBLGNT.Rev.3.22.w10" endWord="ἐκκλησίαις" episodeWordLength="525"
+        episodeTitle="Letters to the Congregations at Sardis, at Philadelphia, and at Laodicea"/>
+    <episode startId="SBLGNT.Rev.4.1.w1" episodeId="27§04" startWord="Μετὰ"
+        endId="SBLGNT.Rev.4.11.w30" endWord="ἐκτίσθησαν" episodeWordLength="293"
+        episodeTitle="The Vision of God’s Throne of Majesty and Glory"/>
+    <episode startId="SBLGNT.Rev.5.1.w1" episodeId="27§05" startWord="Καὶ"
+        endId="SBLGNT.Rev.5.14.w12" endWord="προσεκύνησαν" episodeWordLength="339"
+        episodeTitle="Christ, the Lion and the Lamb, Praised with a New Song"/>
+    <episode startId="SBLGNT.Rev.6.1.w1" episodeId="27§06" startWord="Καὶ"
+        endId="SBLGNT.Rev.6.17.w13" endWord="σταθῆναι" episodeWordLength="417"
+        episodeTitle="The Opening of Six Seals of the Scroll"/>
+    <episode startId="SBLGNT.Rev.7.1.w1" episodeId="27§07" startWord="Μετὰ"
+        endId="SBLGNT.Rev.7.17.w27" endWord="αὐτῶν" episodeWordLength="398"
+        episodeTitle="The Comfort of the Church in Spiritual Afflictions"/>
+    <episode startId="SBLGNT.Rev.8.1.w1" episodeId="27§08" startWord="Καὶ"
+        endId="SBLGNT.Rev.8.13.w32" endWord="σαλπίζειν" episodeWordLength="319"
+        episodeTitle="The Third Vision and the Opening of the Seventh Seal"/>
+    <episode startId="SBLGNT.Rev.9.1.w1" episodeId="27§09" startWord="Καὶ"
+        endId="SBLGNT.Rev.9.21.w22" endWord="αὐτῶν" episodeWordLength="496"
+        episodeTitle="The Sounding or the Fifth and Sixth Trumpets"/>
+    <episode startId="SBLGNT.Rev.10.1.w1" episodeId="27§10" startWord="Καὶ"
+        endId="SBLGNT.Rev.10.11.w16" endWord="πολλοῖς" episodeWordLength="291"
+        episodeTitle="The Angel and the Little Scroll"/>
+    <episode startId="SBLGNT.Rev.11.1.w1" episodeId="27§11" startWord="Καὶ"
+        endId="SBLGNT.Rev.11.19.w33" endWord="μεγάλη" episodeWordLength="495"
+        episodeTitle="Of the Two Witnesses and the Sounding of the Seventh Trumpet"/>
+    <episode startId="SBLGNT.Rev.12.1.w1" episodeId="27§12" startWord="Καὶ"
+        endId="SBLGNT.Rev.12.18.w7" endWord="θαλάσσης" episodeWordLength="438"
+        episodeTitle="The Battle of Michael with the Dragon"/>
+    <episode startId="SBLGNT.Rev.13.1.w1" episodeId="27§13" startWord="Καὶ"
+        endId="SBLGNT.Rev.13.18.w23" endWord="ἕξ" episodeWordLength="446"
+        episodeTitle="The Seven-Headed Beast of Blasphemy and the Two-Horned Beast of Deceit"/>
+    <episode startId="SBLGNT.Rev.14.1.w1" episodeId="27§14" startWord="Καὶ"
+        endId="SBLGNT.Rev.14.20.w22" endWord="ἑξακοσίων" episodeWordLength="548"
+        episodeTitle="Of the 144,000 and the Fall of Spiritual Babylon"/>
+    <episode startId="SBLGNT.Rev.15.1.w1" episodeId="27§15" startWord="Καὶ"
+        endId="SBLGNT.Rev.15.8.w30" endWord="ἀγγέλων" episodeWordLength="217"
+        episodeTitle="The Angels with the Seven Vials and the Opening of the Temple"/>
+    <episode startId="SBLGNT.Rev.16.1.w1" episodeId="27§16" startWord="Καὶ"
+        endId="SBLGNT.Rev.16.21.w30" endWord="σφόδρα" episodeWordLength="470"
+        episodeTitle="The Seven Vials of Wrath are Poured Out"/>
+    <episode startId="SBLGNT.Rev.17.1.w1" episodeId="27§17" startWord="Καὶ"
+        endId="SBLGNT.Rev.17.18.w18" endWord="γῆς" episodeWordLength="442"
+        episodeTitle="The Kingdom of Antichrist Symbolized by the Great Harlot"/>
+    <episode startId="SBLGNT.Rev.18.1.w1" episodeId="27§18" startWord="Μετὰ"
+        endId="SBLGNT.Rev.18.24.w15" endWord="γῆς" episodeWordLength="625"
+        episodeTitle="The Fall and Destruction of Antichrist’s Kingdom"/>
+    <episode startId="SBLGNT.Rev.19.1.w1" episodeId="27§19" startWord="Μετὰ"
+        endId="SBLGNT.Rev.19.21.w27" endWord="αὐτῶν" episodeWordLength="523"
+        episodeTitle="The Triumph of the Elect in Heaven"/>
+    <episode startId="SBLGNT.Rev.20.1.w1" episodeId="27§20" startWord="Καὶ"
+        endId="SBLGNT.Rev.20.15.w17" endWord="πυρός" episodeWordLength="406"
+        episodeTitle="Of the Dragon Bound and Loosed, of Gog and Magog, and of the Last Judgment"/>
+    <episode startId="SBLGNT.Rev.21.1.w1" episodeId="27§21" startWord="Καὶ"
+        endId="SBLGNT.Rev.21.27.w24" endWord="ἀρνίου" episodeWordLength="603"
+        episodeTitle="The Seventh Vision: Of the Heavenly Jerusalem"/>
+    <episode startId="SBLGNT.Rev.22.1.w1" episodeId="27§22" startWord="Καὶ"
+        endId="SBLGNT.Rev.22.21.w7" endWord="πάντων" episodeWordLength="452"
+        episodeTitle="Of the Certain Bliss of Eternal Life"/>
+</root>
